@@ -1,0 +1,541 @@
+2024-08-15 21:17:49.200 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-08-15 21:17:49.232 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-08-15 21:17:49.264 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-08-15 21:17:49.296 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-08-15 21:17:49.306 : SN 7116 : ContCheck(Yx)
+2024-08-15 21:17:49.328 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-08-15 21:17:49.392 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-08-15 21:17:49.462 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-08-15 21:17:49.494 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-08-15 21:17:49.526 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-08-15 21:17:49.558 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:17:49.606 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,00-01-01 1 00:00:00
+2024-08-15 21:17:49.613 : SN 7116 : Real Time Clock difference: 777071869
+2024-08-15 21:17:49.638 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-08-15 21:17:49.670 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-08-15 21:17:49.702 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-08-15 21:17:49.741 : SN 7116 : CheckLockVisibility()
+2024-08-15 21:17:49.798 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-08-15 21:17:49.803 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-08-15 21:17:49.811 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-08-15 21:17:49.815 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-08-15 21:17:49.846 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 13.06m,0000000554Hz,0000000000c,0000000.000s, 022.5C
+2024-08-15 21:17:52.741 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-08-15 21:17:52.821 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-08-15 21:17:52.853 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-08-15 21:17:52.886 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:17:52.917 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,00-01-01 1 00:00:00
+2024-08-15 21:17:52.920 : SN 7116 : Real Time Clock difference: 777071872
+2024-08-15 21:17:52.949 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-08-15 21:17:52.981 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:17:53.013 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:18:16.301 : SN 7116 : Setting unit clock...
+2024-08-15 21:18:16.355 : SN 7116 : Sent: LC24-08-15 5 21:18:16x   To: /dev/tty.usbserial-B003BNDH   Received: LC,24-08-15 5 21:18:16
+2024-08-15 21:18:31.916 : SN 7116 : Setting unit clock...
+2024-08-15 21:18:31.969 : SN 7116 : Sent: LC24-08-15 5 21:18:31x   To: /dev/tty.usbserial-B003BNDH   Received: LC,24-08-15 5 21:18:31
+2024-08-15 21:19:52.001 : SN 7116 : Setting unit clock...
+2024-08-15 21:19:52.055 : SN 7116 : Sent: LC24-08-15 5 21:19:52x   To: /dev/tty.usbserial-B003BNDH   Received: LC,24-08-15 5 21:19:52
+2024-08-15 21:20:10.253 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-08-15 21:20:10.317 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-08-15 21:20:10.349 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-08-15 21:20:10.381 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:20:10.413 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-08-15 5 21:20:11
+2024-08-15 21:20:10.415 : SN 7116 : Real Time Clock difference: 0
+2024-08-15 21:20:10.445 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-08-15 21:31:26.085 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-08-15 21:31:26.159 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-08-15 21:31:26.191 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-08-15 21:31:26.223 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-08-15 21:31:26.255 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-08-15 5 21:31:27
+2024-08-15 21:31:26.259 : SN 7116 : Real Time Clock difference: 0
+2024-08-15 21:31:26.287 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:40:10.108 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-02 16:40:10.140 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-02 16:40:10.156 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-02 16:40:10.172 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-02 16:40:10.176 : SN 7116 : ContCheck(Yx)
+2024-09-02 16:40:10.188 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-02 16:40:10.268 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-02 16:40:10.332 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-02 16:40:10.365 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-02 16:40:10.396 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-02 16:40:10.428 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:40:10.460 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-02 2 16:40:13
+2024-09-02 16:40:10.463 : SN 7116 : Real Time Clock difference: 2
+2024-09-02 16:40:10.476 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:40:10.508 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:40:10.524 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:40:10.555 : SN 7116 : CheckLockVisibility()
+2024-09-02 16:40:10.604 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-02 16:40:10.608 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-02 16:40:10.613 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-02 16:40:10.614 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-02 16:40:10.652 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 11.20m,0000003068Hz,0000000000c,0000000.000s, 021.2C
+2024-09-02 16:40:43.318 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-02 16:40:43.398 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-02 16:40:43.430 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-02 16:40:43.462 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:40:43.494 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-02 2 16:40:46
+2024-09-02 16:40:43.499 : SN 7116 : Real Time Clock difference: 2
+2024-09-02 16:40:43.526 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:40:43.558 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:40:43.590 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:40:43.638 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-08-15 5 21:52:02,13.17, 022.8C,228,0
+2024-09-02 16:40:48.806 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:46:41.567 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-02 16:46:41.647 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000005120
+2024-09-02 16:46:41.679 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-02 16:46:41.711 : SN 7116 : Sent: L0x   To: /dev/tty.usbserial-B003BNDH   Received: L0,239,023
+2024-09-02 16:46:47.025 : SN 7116 : Erasing meter database.
+2024-09-02 16:46:47.071 : SN 7116 : Sent: L2x   To: /dev/tty.usbserial-B003BNDH   Received: L2
+2024-09-02 16:46:47.103 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:48.143 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:49.135 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:50.143 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:51.135 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:52.142 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:53.134 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:54.141 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:55.134 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:56.142 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:57.134 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:58.142 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:46:59.134 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:00.142 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:01.133 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:02.141 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:03.133 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:04.141 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:05.132 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:06.140 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:07.132 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:08.140 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:09.132 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:10.140 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:11.132 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:12.139 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:13.131 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:14.139 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:15.131 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:16.138 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:17.130 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:18.138 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:19.130 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:20.138 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:21.130 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:22.137 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:23.129 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:24.137 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:25.129 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:26.137 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:27.129 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:28.137 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:29.128 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:30.137 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:31.128 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,003
+2024-09-02 16:47:32.136 : SN 7116 : Sent: L6x   To: /dev/tty.usbserial-B003BNDH   Received: L6,000
+2024-09-02 16:47:37.749 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-02 16:47:37.829 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-02 16:47:37.861 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-02 16:47:37.893 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-09-02 16:47:37.925 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-02 2 16:47:41
+2024-09-02 16:47:37.937 : SN 7116 : Real Time Clock difference: 3
+2024-09-02 16:47:37.957 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-02 16:47:37.990 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-09-02 16:47:38.021 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000000000
+2024-09-09 10:24:33.204 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-09 10:24:33.235 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-09 10:24:33.267 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-09 10:24:33.283 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-09 10:24:33.286 : SN 7116 : ContCheck(Yx)
+2024-09-09 10:24:33.299 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-09 10:24:33.363 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-09 10:24:33.443 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-09 10:24:33.475 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-09 10:24:33.507 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:24:33.539 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:24:33.571 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:24:37
+2024-09-09 10:24:33.577 : SN 7116 : Real Time Clock difference: 3
+2024-09-09 10:24:33.603 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:24:33.635 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:24:33.651 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:24:33.680 : SN 7116 : CheckLockVisibility()
+2024-09-09 10:24:33.731 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:24:33.735 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:24:33.743 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-09 10:24:33.744 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:24:33.779 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 11.26m,0000002886Hz,0000000000c,0000000.000s, 015.1C
+2024-09-09 10:24:48.847 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-09 10:24:48.927 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-09 10:24:48.959 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:24:48.991 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:24:49.023 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:24:53
+2024-09-09 10:24:49.026 : SN 7116 : Real Time Clock difference: 3
+2024-09-09 10:24:49.055 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:24:49.087 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:24:49.119 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:24:49.167 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-09-09 10:25:02.487 : SN 7116 : Setting unit clock...
+2024-09-09 10:25:02.541 : SN 7116 : Sent: LC24-09-09 2 10:25:02x   To: /dev/tty.usbserial-B003BNDH   Received: LC,24-09-09 2 10:25:02
+2024-09-09 10:25:09.725 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000255m,0000000000s,0000000201m,00000000.00m,
+2024-09-09 10:25:09.804 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-09 10:25:09.837 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:25:09.869 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:25:09.901 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:25:10
+2024-09-09 10:25:09.903 : SN 7116 : Real Time Clock difference: 0
+2024-09-09 10:25:09.933 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:25:20.923 : SN 7116 : DL Trigger mode button changed.
+2024-09-09 10:25:20.970 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,3
+2024-09-09 10:25:21.002 : SN 7116 : Sent: LM2x   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:25:21.006 : SN 7116 : Set trigger mode to value 2
+2024-09-09 10:25:31.933 : SN 7116 : Sent: LPM0000000005x   To: /dev/tty.usbserial-B003BNDH   Received: LP,M0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:25:36.785 : SN 7116 : Sent: LPM0000000005x   To: /dev/tty.usbserial-B003BNDH   Received: LP,M0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:25:43.248 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-09 10:25:43.280 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-09 10:25:43.312 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-09 10:25:43.344 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-09 10:25:43.347 : SN 7116 : ContCheck(Yx)
+2024-09-09 10:25:43.376 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-09 10:25:43.408 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-09 10:25:43.472 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:25:43.504 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:25:43.536 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:25:43.568 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:25:43.600 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:25:43
+2024-09-09 10:25:43.604 : SN 7116 : Real Time Clock difference: 0
+2024-09-09 10:25:43.632 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:25:43.677 : SN 7116 : CheckLockVisibility()
+2024-09-09 10:25:43.728 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:25:43.731 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:25:43.739 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-09 10:25:43.739 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:25:43.775 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 11.07m,0000003427Hz,0000000000c,0000000.000s, 015.4C
+2024-09-09 10:25:59.959 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:26:00.023 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:26:00.055 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:26:00.087 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:26:00.135 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:26:00
+2024-09-09 10:26:00.140 : SN 7116 : Real Time Clock difference: 0
+2024-09-09 10:26:00.167 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:26:00.199 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:26:00.231 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:26:00.279 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-09-09 10:26:03.992 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:26:07.261 : SN 7116 : DL binary retrieve initiated.
+2024-09-09 10:26:07.302 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:26:45.893 : SN 7116 : DL binary retrieve initiated.
+2024-09-09 10:26:45.937 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:27:45.345 : SN 7116 : DL binary retrieve initiated.
+2024-09-09 10:27:45.376 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:27:45.408 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2024-09-09 10:27:45.440 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 11.61m,0000002101Hz,0000000000c,0000000.000s, 015.7C
+2024-09-09 10:27:45.472 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2024-09-09 10:27:45.504 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:27:45.536 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:27:45
+2024-09-09 10:27:45.576 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:27:45.592 : SN 7116 : 1940 Packets 16 bytes long.
+2024-09-09 10:34:53.894 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-09 10:34:53.926 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-09 10:34:53.958 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-09 10:34:53.990 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-09 10:34:53.993 : SN 7116 : ContCheck(Yx)
+2024-09-09 10:34:54.022 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-09 10:34:54.054 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-09 10:34:54.118 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-09 10:34:54.150 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-09 10:34:54.182 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-09 10:34:54.214 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000001940
+2024-09-09 10:34:54.246 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-09 2 10:34:54
+2024-09-09 10:34:54.250 : SN 7116 : Real Time Clock difference: 0
+2024-09-09 10:34:54.277 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-09 10:34:54.317 : SN 7116 : CheckLockVisibility()
+2024-09-09 10:34:54.374 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:34:54.378 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:34:54.387 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-09 10:34:54.387 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-09 10:34:54.422 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 11.73m,0000001864Hz,0000000000c,0000000.000s, 017.0C
+2024-09-13 13:05:37.027 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-13 13:05:37.059 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-13 13:05:37.091 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-13 13:05:37.107 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-13 13:05:37.111 : SN 7116 : ContCheck(Yx)
+2024-09-13 13:05:37.139 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-13 13:05:37.202 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-13 13:05:37.282 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:05:37.314 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:05:37.346 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-13 13:05:37.361 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:37.393 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:05:39
+2024-09-13 13:05:37.396 : SN 7116 : Real Time Clock difference: 1
+2024-09-13 13:05:37.410 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:05:37.441 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:05:37.458 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:05:37.491 : SN 7116 : CheckLockVisibility()
+2024-09-13 13:05:37.538 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:37.540 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:37.546 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-13 13:05:37.546 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:37.569 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 09.63m,0000012980Hz,0000000000c,0000000.000s, 018.0C
+2024-09-13 13:05:43.537 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-09-13 13:05:43.569 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-09-13 13:05:43.601 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-09-13 13:05:43.617 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-09-13 13:05:43.620 : SN 7116 : ContCheck(Yx)
+2024-09-13 13:05:43.649 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-09-13 13:05:43.681 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-09-13 13:05:43.745 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:05:43.777 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:05:43.809 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-13 13:05:43.841 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:43.873 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:05:46
+2024-09-13 13:05:43.876 : SN 7116 : Real Time Clock difference: 2
+2024-09-13 13:05:43.905 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:05:43.942 : SN 7116 : CheckLockVisibility()
+2024-09-13 13:05:44.001 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:44.005 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:44.012 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-09-13 13:05:44.012 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:44.049 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 09.64m,0000012849Hz,0000000000c,0000000.000s, 017.7C
+2024-09-13 13:05:48.420 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:05:48.491 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:05:48.523 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-13 13:05:48.555 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:48.603 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:05:50
+2024-09-13 13:05:48.606 : SN 7116 : Real Time Clock difference: 1
+2024-09-13 13:05:48.634 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:05:48.666 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:48.699 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:48.747 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-09-13 13:05:53.993 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:05:58.055 : SN 7116 : DL binary retrieve initiated.
+2024-09-13 13:05:58.105 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:05:58.136 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2024-09-13 13:05:58.168 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 09.64m,0000012844Hz,0000000000c,0000000.000s, 018.0C
+2024-09-13 13:05:58.201 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2024-09-13 13:05:58.233 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-09-13 13:05:58.265 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:06:00
+2024-09-13 13:05:58.307 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:05:58.322 : SN 7116 : 3123 Packets 16 bytes long.
+2024-09-13 13:09:21.649 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:09:21.729 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:09:21.761 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-13 13:09:21.793 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:09:21.825 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:09:24
+2024-09-13 13:09:21.828 : SN 7116 : Real Time Clock difference: 2
+2024-09-13 13:09:21.857 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:12:13.526 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-09-13 13:12:13.589 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-09-13 13:12:13.621 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-09-13 13:12:13.653 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:12:13.686 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-09-13 6 13:12:15
+2024-09-13 13:12:13.691 : SN 7116 : Real Time Clock difference: 1
+2024-09-13 13:12:13.717 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-09-13 13:12:13.749 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:12:13.781 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000003123
+2024-09-13 13:12:13.829 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-10-06 17:23:33.030 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-10-06 17:23:33.061 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-10-06 17:23:33.077 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-10-06 17:23:33.093 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-10-06 17:23:33.096 : SN 7116 : ContCheck(Yx)
+2024-10-06 17:23:33.109 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-10-06 17:23:33.173 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-10-06 17:23:33.260 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-10-06 17:23:33.292 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-10-06 17:23:33.325 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-10-06 17:23:33.356 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:33.389 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:33.436 : SN 7116 : Sent: L40000009798x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-10-06 1 17:23:07,19.52, 006.4C,228,0
+2024-10-06 17:23:33.468 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-10-06 1 17:23:39
+2024-10-06 17:23:33.471 : SN 7116 : Real Time Clock difference: 5
+2024-10-06 17:23:33.484 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-10-06 17:23:33.500 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-10-06 17:23:33.516 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-10-06 17:23:33.547 : SN 7116 : CheckLockVisibility()
+2024-10-06 17:23:33.597 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-10-06 17:23:33.601 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-10-06 17:23:33.610 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-10-06 17:23:33.612 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-10-06 17:23:33.644 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 19.82m,0000000001Hz,0000423682c,0000000.919s, 006.7C
+2024-10-06 17:23:38.491 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-10-06 17:23:38.572 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-10-06 17:23:38.604 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-10-06 17:23:38.635 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:38.667 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:38.715 : SN 7116 : Sent: L40000009798x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-10-06 1 17:23:07,19.52, 006.4C,228,0
+2024-10-06 17:23:38.747 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-10-06 1 17:23:44
+2024-10-06 17:23:38.753 : SN 7116 : Real Time Clock difference: 5
+2024-10-06 17:23:38.779 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-10-06 17:23:38.811 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:38.843 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:38.891 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-10-06 17:23:41.547 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000009799
+2024-10-06 17:23:44.964 : SN 7116 : DL binary retrieve initiated.
+2024-10-06 17:23:45.018 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-10-06 17:23:45.051 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2024-10-06 17:23:45.083 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 19.59m,0000000001Hz,0000344299c,0000000.747s, 007.0C
+2024-10-06 17:23:45.115 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2024-10-06 17:23:45.147 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-10-06 17:23:45.179 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-10-06 1 17:23:51
+2024-10-06 17:23:45.221 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-10-06 17:23:45.237 : SN 7116 : 9799 Packets 16 bytes long.
+2024-11-05 15:22:01.038 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-11-05 15:22:01.070 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-11-05 15:22:01.086 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-11-05 15:22:01.103 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-11-05 15:22:01.106 : SN 7116 : ContCheck(Yx)
+2024-11-05 15:22:01.135 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-11-05 15:22:01.198 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-11-05 15:22:01.278 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-11-05 15:22:01.310 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-11-05 15:22:01.343 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-11-05 15:22:01.375 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:01.407 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:01.455 : SN 7116 : Sent: L40000018414x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-11-05 3 15:21:05,08.15, 006.1C,218,1
+2024-11-05 15:22:01.487 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-11-05 3 15:22:14
+2024-11-05 15:22:01.489 : SN 7116 : Real Time Clock difference: 12
+2024-11-05 15:22:01.502 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-11-05 15:22:01.535 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-11-05 15:22:01.551 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-11-05 15:22:01.582 : SN 7116 : CheckLockVisibility()
+2024-11-05 15:22:01.631 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:01.634 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:01.642 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-11-05 15:22:01.645 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:01.678 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 12.72m,0000000749Hz,0000000000c,0000000.000s, 005.8C
+2024-11-05 15:22:13.340 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-11-05 15:22:13.372 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-11-05 15:22:13.404 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-11-05 15:22:13.420 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-11-05 15:22:13.424 : SN 7116 : ContCheck(Yx)
+2024-11-05 15:22:13.436 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-11-05 15:22:13.468 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-11-05 15:22:13.533 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-11-05 15:22:13.564 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-11-05 15:22:13.597 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-11-05 15:22:13.628 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:13.660 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:13.709 : SN 7116 : Sent: L40000018414x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-11-05 3 15:21:05,08.15, 006.1C,218,1
+2024-11-05 15:22:13.741 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-11-05 3 15:22:26
+2024-11-05 15:22:13.744 : SN 7116 : Real Time Clock difference: 12
+2024-11-05 15:22:13.772 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-11-05 15:22:13.803 : SN 7116 : CheckLockVisibility()
+2024-11-05 15:22:13.853 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:13.857 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:13.861 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-11-05 15:22:13.862 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:13.900 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 12.33m,0000001081Hz,0000000000c,0000000.000s, 005.8C
+2024-11-05 15:22:22.387 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-11-05 15:22:22.467 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-11-05 15:22:22.499 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-11-05 15:22:22.531 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:22.563 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:22.611 : SN 7116 : Sent: L40000018414x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-11-05 3 15:21:05,08.15, 006.1C,218,1
+2024-11-05 15:22:22.643 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-11-05 3 15:22:35
+2024-11-05 15:22:22.649 : SN 7116 : Real Time Clock difference: 12
+2024-11-05 15:22:22.675 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-11-05 15:22:22.707 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:22.739 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:22.787 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-11-05 15:22:25.938 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000018415
+2024-11-05 15:22:29.170 : SN 7116 : DL binary retrieve initiated.
+2024-11-05 15:22:29.218 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-11-05 15:22:29.250 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2024-11-05 15:22:29.282 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 12.27m,0000001136Hz,0000000000c,0000000.000s, 005.8C
+2024-11-05 15:22:29.314 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2024-11-05 15:22:29.346 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-11-05 15:22:29.378 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-11-05 3 15:22:42
+2024-11-05 15:22:29.419 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-11-05 15:22:29.435 : SN 7116 : 18415 Packets 16 bytes long.
+2024-12-09 13:56:17.246 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2024-12-09 13:56:17.278 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2024-12-09 13:56:17.310 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2024-12-09 13:56:17.342 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2024-12-09 13:56:17.346 : SN 7116 : ContCheck(Yx)
+2024-12-09 13:56:17.374 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2024-12-09 13:56:17.438 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2024-12-09 13:56:17.528 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-12-09 13:56:17.560 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-12-09 13:56:17.592 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-12-09 13:56:17.624 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:17.656 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:17.704 : SN 7116 : Sent: L40000028189x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-12-09 2 13:56:05,12.68, 002.5C,217,1
+2024-12-09 13:56:17.736 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-12-09 2 13:56:38
+2024-12-09 13:56:17.740 : SN 7116 : Real Time Clock difference: 20
+2024-12-09 13:56:17.768 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-12-09 13:56:17.800 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-12-09 13:56:17.832 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-12-09 13:56:17.868 : SN 7116 : CheckLockVisibility()
+2024-12-09 13:56:17.928 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-12-09 13:56:17.936 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-12-09 13:56:17.945 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2024-12-09 13:56:17.946 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-12-09 13:56:17.976 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 13.78m,0000000285Hz,0000000000c,0000000.000s, 002.2C
+2024-12-09 13:56:20.200 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-12-09 13:56:20.279 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-12-09 13:56:20.312 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2024-12-09 13:56:20.343 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:20.376 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:20.424 : SN 7116 : Sent: L40000028189x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-12-09 2 13:56:05,12.68, 002.5C,217,1
+2024-12-09 13:56:20.472 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-12-09 2 13:56:41
+2024-12-09 13:56:20.477 : SN 7116 : Real Time Clock difference: 20
+2024-12-09 13:56:20.503 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2024-12-09 13:56:20.536 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:20.567 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:20.615 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2024-12-09 13:56:22.360 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000028190
+2024-12-09 13:56:25.300 : SN 7116 : DL binary retrieve initiated.
+2024-12-09 13:56:25.335 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2024-12-09 13:56:25.367 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2024-12-09 13:56:25.399 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 13.79m,0000000283Hz,0000000000c,0000000.000s, 001.9C
+2024-12-09 13:56:25.431 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2024-12-09 13:56:25.463 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2024-12-09 13:56:25.495 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,24-12-09 2 13:56:46
+2024-12-09 13:56:25.537 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2024-12-09 13:56:25.553 : SN 7116 : 28190 Packets 16 bytes long.
+2025-01-03 12:51:57.174 : SN 7116 : Sent: m0x   To: /dev/tty.usbserial-B003BNDH   Received: m0,255
+2025-01-03 12:51:57.206 : SN 7116 : Sent: m1x   To: /dev/tty.usbserial-B003BNDH   Received: m1,255
+2025-01-03 12:51:57.238 : SN 7116 : Sent: m2x   To: /dev/tty.usbserial-B003BNDH   Received: m2,255
+2025-01-03 12:51:57.254 : SN 7116 : Sent: Lvx   To: /dev/tty.usbserial-B003BNDH   Received: Lv,2
+2025-01-03 12:51:57.256 : SN 7116 : ContCheck(Yx)
+2025-01-03 12:51:57.270 : SN 7116 : Sent: Yx   To: /dev/tty.usbserial-B003BNDH   Received: Yrcpu
+2025-01-03 12:51:57.334 : SN 7116 : Sent: A5x   To: /dev/tty.usbserial-B003BNDH   Received: A5,0,d
+2025-01-03 12:51:57.422 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-01-03 12:51:57.454 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2025-01-03 12:51:57.486 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2025-01-03 12:51:57.518 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:51:57.550 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:51:57.598 : SN 7116 : Sent: L40000035376x   To: /dev/tty.usbserial-B003BNDH   Received: L4,25-01-03 6 12:51:05,00.00,-000.4C,217,1
+2025-01-03 12:51:57.630 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,25-01-03 6 12:52:25
+2025-01-03 12:51:57.633 : SN 7116 : Real Time Clock difference: 27
+2025-01-03 12:51:57.646 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2025-01-03 12:51:57.662 : SN 7116 : Sent: LD1x   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2025-01-03 12:51:57.678 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2025-01-03 12:51:57.709 : SN 7116 : CheckLockVisibility()
+2025-01-03 12:51:57.758 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-01-03 12:51:57.762 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-01-03 12:51:57.770 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2025-01-03 12:51:57.773 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-01-03 12:51:57.806 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 13.83m,0000000271Hz,0000000000c,0000000.000s, 000.1C
+2025-01-03 12:52:15.804 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-01-03 12:52:15.884 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2025-01-03 12:52:15.916 : SN 7116 : Sent: LZx   To: /dev/tty.usbserial-B003BNDH   Received: LZ,0001048576
+2025-01-03 12:52:15.947 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:52:15.980 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:52:16.028 : SN 7116 : Sent: L40000035376x   To: /dev/tty.usbserial-B003BNDH   Received: L4,25-01-03 6 12:51:05,00.00,-000.4C,217,1
+2025-01-03 12:52:16.060 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,25-01-03 6 12:52:44
+2025-01-03 12:52:16.065 : SN 7116 : Real Time Clock difference: 27
+2025-01-03 12:52:16.092 : SN 7116 : Sent: Ldx   To: /dev/tty.usbserial-B003BNDH   Received: Ld,1
+2025-01-03 12:52:16.124 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:52:16.156 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:52:16.204 : SN 7116 : Sent: L40000000000x   To: /dev/tty.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2025-01-03 12:52:19.115 : SN 7116 : Sent: L1x   To: /dev/tty.usbserial-B003BNDH   Received: L1,0000035377
+2025-01-03 12:52:21.402 : SN 7116 : DL binary retrieve initiated.
+2025-01-03 12:52:21.452 : SN 7116 : Sent: Lmx   To: /dev/tty.usbserial-B003BNDH   Received: LM,2
+2025-01-03 12:52:21.484 : SN 7116 : Sent: ix   To: /dev/tty.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2025-01-03 12:52:21.517 : SN 7116 : Sent: rx   To: /dev/tty.usbserial-B003BNDH   Received: r, 13.79m,0000000280Hz,0000000000c,0000000.000s, 000.1C
+2025-01-03 12:52:21.549 : SN 7116 : Sent: cx   To: /dev/tty.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2025-01-03 12:52:21.581 : SN 7116 : Sent: Ix   To: /dev/tty.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-01-03 12:52:21.612 : SN 7116 : Sent: Lcx   To: /dev/tty.usbserial-B003BNDH   Received: Lc,25-01-03 6 12:52:49
+2025-01-03 12:52:21.654 : SN 7116 : Sent: LIx   To: /dev/tty.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-01-03 12:52:21.670 : SN 7116 : 35377 Packets 16 bytes long.

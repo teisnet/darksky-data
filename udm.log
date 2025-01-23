@@ -1,0 +1,24 @@
+2025-01-22 16:44:35.152 : UDM Started.
+2025-01-22 16:44:35.530 : Looking for .goto files here: /Applications/udm.app/Contents/Resources//*.goto
+2025-01-22 16:44:35.541 : 0: default.goto
+2025-01-22 16:44:35.793 : UDM Version: 1.0.0.344
+2025-01-22 16:44:35.810 : Operating system: MacOSX (Darwin)
+2025-01-22 16:44:35.811 : Started at: 2025-01-22 17:44:35
+2025-01-22 16:44:35.811 : Started as:  /Applications/udm.app/Contents/MacOS/udm
+2025-01-22 16:44:35.812 : ConfigFilePath: /Users/pietdraiby//Documents/udm/udm.cfg
+2025-01-22 16:44:35.819 : Press the Version or Reading button to see results from the selected device.
+2025-01-22 16:44:35.823 : Finished USB search. Found 1 matches
+2025-01-22 16:44:35.823 : Looking for Ethernet connections on this machine.
+2025-01-22 16:44:36.184 : This machine uses IP: 127.0.0.1 , will use a broadcast to: 255.255.255.255
+2025-01-22 16:44:38.201 : Finished looking for Ethernet devices.
+2025-01-22 16:44:38.213 : Getting InstrumentIDs.
+2025-01-22 16:44:38.219 : Populated FoundDevices window.
+2025-01-22 16:44:38.226 : Press the Version or Reading button to see results from the selected device.
+2025-01-22 16:44:38.227 : ItemSelected: row 0.
+2025-01-22 16:44:38.229 : USB SN: B003BNCW Device: /dev/tty.usbserial-B003BNCW has been selected.
+2025-01-22 16:44:38.230 : Only one device found, selecting it.
+2025-01-22 16:44:38.230 : Press the Version or Reading button to see results from the selected device.
+2025-01-22 16:44:38.232 : ItemSelected: row 0.
+2025-01-22 16:44:38.252 : USB SN: B003BNCW Device: /dev/tty.usbserial-B003BNCW has been selected.
+2025-01-22 16:44:38.253 : GetVersion called.
+2025-01-22 16:44:38.283 : Sent: ix   To: /dev/tty.usbserial-B003BNCW   Received: i,00000004,00000006,00000082,00007118
