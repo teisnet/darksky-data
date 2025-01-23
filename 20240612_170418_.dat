@@ -1,0 +1,43 @@
+# Light Pollution Monitoring Data Format 1.0
+# URL: http://www.darksky.org/measurements
+# Number of header lines: 42
+# This data is released under the following license: ODbL 1.0 http://opendatacommons.org/licenses/odbl/summary/
+# Device type: SQM-LU-DL-R2
+# Instrument ID: 
+# Data supplier: 
+# Location name: Karskov
+# Position (lat, lon, elev(m)): 37, 54, 0
+# Local timezone: Europe/Copenhagen
+# Time Synchronization: EUROPE/BERLIN
+# Moving / Stationary position: STATIONARY
+# Moving / Fixed look direction: FIXED
+# Number of channels: 1
+# Filters per channel: 
+# Measurement direction per channel: 
+# Field of view (degrees): 
+# Number of fields per line: 6
+# SQM serial number: 7109
+# SQM hardware identity: B003BNCX
+# SQM firmware version: 4-6-82
+# SQM cover offset value: 
+# SQM readout test ix (Information): i,00000004,00000006,00000082,00007109
+# SQM readout test rx (Reading): r, 10.10m,0000008598Hz,0000000000c,0000000.000s, 022.5C
+# SQM readout test cx (Calibration): c,00000019.93m,0000167.535s, 019.3C,00000008.71m, 018.6C
+# SQM readout test Ix (Report Interval): 0000000000s,0000000000s,00000000.00m,00000000.00m
+# DL time difference (seconds): 0
+# DL retrieved at (UTC): 2024-06-12T15:04:18.608
+# DL trigger seconds : 0
+# DL trigger minutes : 5
+# DL trigger threshold : 0
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# UDM version: 1.0.0.344
+# UDM setting: One record logged
+# blank line
+# UTC Date & Time, Local Date & Time, Temperature, Counts, Frequency, MSAS
+# YYYY-MM-DDTHH:mm:ss.fff;YYYY-MM-DDTHH:mm:ss.fff;Celsius;number;Hz;mag/arcsec^2
+# END OF HEADER
+2024-06-12T15:04:18.682;2024-06-12T17:04:18.682;22.5;0;8598;10.10
