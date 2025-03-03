@@ -1,0 +1,68 @@
+[
+	{
+		"Name": "Karskov",
+		"SerialNr": 7109,
+		"Latitude": 55.0660,
+		"Longitude": 10.9202
+	},
+	{
+		"Name": "Calendula",
+		"SerialNr": 7108,
+		"Latitude": 55.1027,
+		"Longitude": 10.9240
+	},
+	{
+		"Name": "Sanne, Almindingen",
+		"SerialNr": 7122,
+		"Latitude": 54.9830,
+		"Longitude": 10.8078
+	},
+	{
+		"Name": "Lise, Nordenbro Mølle",
+		"SerialNr": 7110,
+		"Latitude": 54.8673,
+		"Longitude": 10.7414
+	},
+	{
+		"Name": "Skovsgård",
+		"SerialNr": 7115,
+		"Latitude": 54.8452,
+		"Longitude": 10.7498
+	},
+	{
+		"Name": "Bruce, Vindeby",
+		"SerialNr": 7116,
+		"Latitude": 54.8641,
+		"Longitude": 10.7517
+	},
+	{
+		"Name": "hos Allan",
+		"SerialNr": 7107,
+		"Latitude": 55.159965,
+		"Longitude": 10.947171
+	},
+	{
+		"Name": "gulstav",
+		"SerialNr": 7118,
+		"Latitude": 0,
+		"Longitude": 0
+	},
+	{
+		"Name": "Gulstav",
+		"SerialNr": 6851,
+		"Latitude": 0,
+		"Longitude": 0
+	},
+	{
+		"Name": "Unknown",
+		"SerialNr": 7115,
+		"Latitude": 0,
+		"Longitude": 0
+	},
+	{
+		"Name": "Unknown 2",
+		"SerialNr": 7111,
+		"Latitude": 0,
+		"Longitude": 0
+	}
+]
