@@ -590,3 +590,76 @@
 2025-02-06 14:44:39.141 : SN 7116 : Failed: actual count = 0 , desired count = 8 
 2025-02-06 14:44:42.163 : SN 7116 : Failed: actual count = 0 , desired count = 8 
 2025-02-06 14:57:13.215 : SN 7116 : Retrieved all ASCII
+2025-03-08 15:36:53.468 : SN 7116 : Sent: m0x   To: /dev/cu.usbserial-B003BNDH   Received: m0,255
+2025-03-08 15:36:53.499 : SN 7116 : Sent: m1x   To: /dev/cu.usbserial-B003BNDH   Received: m1,255
+2025-03-08 15:36:53.531 : SN 7116 : Sent: m2x   To: /dev/cu.usbserial-B003BNDH   Received: m2,255
+2025-03-08 15:36:53.547 : SN 7116 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDH   Received: Lv,2
+2025-03-08 15:36:53.548 : SN 7116 : ContCheck(Yx)
+2025-03-08 15:36:53.563 : SN 7116 : Sent: Yx   To: /dev/cu.usbserial-B003BNDH   Received: Yrcpu
+2025-03-08 15:36:53.643 : SN 7116 : Sent: A5x   To: /dev/cu.usbserial-B003BNDH   Received: A5,0,d
+2025-03-08 15:36:53.734 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 15:36:53.766 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:36:53.798 : SN 7116 : Sent: LZx   To: /dev/cu.usbserial-B003BNDH   Received: LZ,0001048576
+2025-03-08 15:36:53.830 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:53.862 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:53.910 : SN 7116 : Sent: L40000053835x   To: /dev/cu.usbserial-B003BNDH   Received: L4,25-03-08 7 15:34:05,00.00, 015.4C,218,1
+2025-03-08 15:36:53.958 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-03-08 7 15:37:40
+2025-03-08 15:36:53.961 : SN 7116 : Real Time Clock difference: 46
+2025-03-08 15:36:53.974 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-03-08 15:36:54.006 : SN 7116 : Sent: LD1x   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-03-08 15:36:54.022 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-03-08 15:36:54.052 : SN 7116 : CheckLockVisibility()
+2025-03-08 15:36:54.086 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:36:54.091 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:36:54.099 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2025-03-08 15:36:54.099 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:36:54.134 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 09.26m,0000018234Hz,0000000000c,0000000.000s, 014.8C
+2025-03-08 15:36:59.133 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 15:36:59.229 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:36:59.261 : SN 7116 : Sent: LZx   To: /dev/cu.usbserial-B003BNDH   Received: LZ,0001048576
+2025-03-08 15:36:59.293 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:59.325 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:59.372 : SN 7116 : Sent: L40000053835x   To: /dev/cu.usbserial-B003BNDH   Received: L4,25-03-08 7 15:34:05,00.00, 015.4C,218,1
+2025-03-08 15:36:59.405 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-03-08 7 15:37:46
+2025-03-08 15:36:59.410 : SN 7116 : Real Time Clock difference: 46
+2025-03-08 15:36:59.437 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-03-08 15:36:59.469 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:59.501 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:36:59.548 : SN 7116 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2025-03-08 15:37:02.092 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053836
+2025-03-08 15:37:04.909 : SN 7116 : DL binary retrieve initiated.
+2025-03-08 15:37:04.940 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:37:04.972 : SN 7116 : Sent: ix   To: /dev/cu.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2025-03-08 15:37:05.004 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 09.26m,0000018202Hz,0000000000c,0000000.000s, 014.8C
+2025-03-08 15:37:05.036 : SN 7116 : Sent: cx   To: /dev/cu.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2025-03-08 15:37:05.068 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:37:05.100 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-03-08 7 15:37:51
+2025-03-08 15:37:05.116 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:37:05.156 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 15:37:05.172 : SN 7116 : 53836 Packets 16 bytes long.
+2025-03-08 15:43:16.745 : SN 7116 : Error receiving data: Timeout during operation at record #: 41456
+2025-03-08 15:44:14.282 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053837
+2025-03-08 15:44:36.695 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:44:36.743 : SN 7116 : Sent: ix   To: /dev/cu.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2025-03-08 15:44:36.775 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 10.35m,0000006708Hz,0000000000c,0000000.000s, 017.0C
+2025-03-08 15:44:36.807 : SN 7116 : Sent: cx   To: /dev/cu.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2025-03-08 15:44:36.839 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:44:36.871 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-03-08 7 15:45:22
+2025-03-08 15:44:36.903 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:44:36.945 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000004m,00000000.00m,
+2025-03-08 15:44:36.950 : SN 7116 : DLRetrieveRange: End record was -1, set to 53837
+2025-03-08 15:44:39.921 : SN 7116 : DL Retrieve cancelled.
+2025-03-08 15:44:39.921 : SN 7116 : Retrieved all ASCII
+2025-03-08 15:45:04.220 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000053837
+2025-03-08 15:45:17.850 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:45:17.898 : SN 7116 : Sent: ix   To: /dev/cu.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2025-03-08 15:45:17.930 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 10.36m,0000006623Hz,0000000000c,0000000.000s, 017.4C
+2025-03-08 15:45:17.962 : SN 7116 : Sent: cx   To: /dev/cu.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2025-03-08 15:45:17.994 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 15:45:18.026 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-03-08 7 15:46:03
+2025-03-08 15:45:18.058 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-03-08 15:45:18.100 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000004m,00000000.00m,
+2025-03-08 15:45:18.105 : SN 7116 : DLRetrieveRange: End record was -1, set to 53837
+2025-03-08 15:51:11.142 : SN 7116 : Failed: actual count = 0 , desired count = 8 
+2025-03-08 15:51:14.166 : SN 7116 : Failed: actual count = 0 , desired count = 8 
+2025-03-08 15:55:56.485 : SN 7116 : Retrieved range ASCII: 41000 to -1

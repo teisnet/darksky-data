@@ -1,24 +1,40 @@
-2025-02-06 17:57:14.945 : UDM Started. Local time: 2025-02-06 18:57:14
-2025-02-06 17:57:15.473 : Looking for .goto files here: /Applications/udm.app/Contents/Resources//*.goto
-2025-02-06 17:57:15.477 : 0: default.goto
-2025-02-06 17:57:15.810 : UDM Version: 1.0.0.358
-2025-02-06 17:57:15.813 : Operating system: MacOSX (Darwin)
-2025-02-06 17:57:15.813 : Started at: 2025-02-06 18:57:15
-2025-02-06 17:57:15.814 : Started as:  /Applications/udm.app/Contents/MacOS/udm
-2025-02-06 17:57:15.814 : ConfigFilePath: /Users/pietdraiby//Documents/udm/udm.cfg
-2025-02-06 17:57:15.819 : Press the Version or Reading button to see results from the selected device.
-2025-02-06 17:57:15.825 : Finished USB search. Found 1 matches
-2025-02-06 17:57:15.826 : Looking for Ethernet connections on this machine.
-2025-02-06 17:57:15.826 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
-2025-02-06 17:57:17.827 : Finished looking for Ethernet devices.
-2025-02-06 17:57:17.848 : Getting InstrumentIDs.
-2025-02-06 17:57:17.857 : Populated FoundDevices window.
-2025-02-06 17:57:17.858 : Press the Version or Reading button to see results from the selected device.
-2025-02-06 17:57:17.859 : ItemSelected: row 0.
-2025-02-06 17:57:17.861 : USB SN: 003BNCD Device: /dev/cu.usbserial-B003BNCD has been selected.
-2025-02-06 17:57:17.862 : Only one device found, selecting it.
-2025-02-06 17:57:17.862 : Press the Version or Reading button to see results from the selected device.
-2025-02-06 17:57:17.865 : ItemSelected: row 0.
-2025-02-06 17:57:17.887 : USB SN: 003BNCD Device: /dev/cu.usbserial-B003BNCD has been selected.
-2025-02-06 17:57:17.887 : GetVersion called.
-2025-02-06 17:57:17.924 : Sent: ix   To: /dev/cu.usbserial-B003BNCD   Received: i,00000004,00000006,00000082,00007122
+2025-03-08 17:11:48.265 : UDM Started. Local time: 2025-03-08 18:11:48
+2025-03-08 17:11:48.767 : Looking for .goto files here: /Applications/udm.app/Contents/Resources//*.goto
+2025-03-08 17:11:48.770 : 0: default.goto
+2025-03-08 17:11:49.051 : UDM Version: 1.0.0.358
+2025-03-08 17:11:49.052 : Operating system: MacOSX (Darwin)
+2025-03-08 17:11:49.052 : Started at: 2025-03-08 18:11:49
+2025-03-08 17:11:49.052 : Started as:  /Applications/udm.app/Contents/MacOS/udm
+2025-03-08 17:11:49.053 : ConfigFilePath: /Users/pietdraiby//Documents/udm/udm.cfg
+2025-03-08 17:11:49.057 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:49.078 : Finished USB search. Found 1 matches
+2025-03-08 17:11:49.078 : Looking for Ethernet connections on this machine.
+2025-03-08 17:11:49.078 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
+2025-03-08 17:11:51.080 : Finished looking for Ethernet devices.
+2025-03-08 17:11:51.097 : Getting InstrumentIDs.
+2025-03-08 17:11:51.104 : Populated FoundDevices window.
+2025-03-08 17:11:51.105 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:51.106 : ItemSelected: row 0.
+2025-03-08 17:11:51.109 : USB SN: 001XNU8 Device: /dev/cu.usbserial-B001XNU8 has been selected.
+2025-03-08 17:11:51.127 : Only one device found, selecting it.
+2025-03-08 17:11:51.127 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:51.129 : ItemSelected: row 0.
+2025-03-08 17:11:51.131 : USB SN: 001XNU8 Device: /dev/cu.usbserial-B001XNU8 has been selected.
+2025-03-08 17:11:51.131 : GetVersion called.
+2025-03-08 17:11:51.168 : Sent: ix   To: /dev/cu.usbserial-B001XNU8   Received: i,00000004,00000006,00000084,00006851
+2025-03-08 17:11:56.855 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:56.888 : Finished USB search. Found 1 matches
+2025-03-08 17:11:56.888 : Looking for Ethernet connections on this machine.
+2025-03-08 17:11:56.889 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
+2025-03-08 17:11:58.891 : Finished looking for Ethernet devices.
+2025-03-08 17:11:58.924 : Getting InstrumentIDs.
+2025-03-08 17:11:58.932 : Populated FoundDevices window.
+2025-03-08 17:11:58.954 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:58.979 : ItemSelected: row 0.
+2025-03-08 17:11:58.993 : USB SN: 001XNU8 Device: /dev/cu.usbserial-B001XNU8 has been selected.
+2025-03-08 17:11:58.994 : Only one device found, selecting it.
+2025-03-08 17:11:58.994 : Press the Version or Reading button to see results from the selected device.
+2025-03-08 17:11:58.996 : ItemSelected: row 0.
+2025-03-08 17:11:59.006 : USB SN: 001XNU8 Device: /dev/cu.usbserial-B001XNU8 has been selected.
+2025-03-08 17:11:59.007 : GetVersion called.
+2025-03-08 17:11:59.037 : Sent: ix   To: /dev/cu.usbserial-B001XNU8   Received: i,00000004,00000006,00000084,00006851

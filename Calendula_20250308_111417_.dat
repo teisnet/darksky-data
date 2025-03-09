@@ -1,0 +1,43 @@
+# Light Pollution Monitoring Data Format 1.0
+# URL: http://www.darksky.org/measurements
+# Number of header lines: 43
+# This data is released under the following license: ODbL 1.0 http://opendatacommons.org/licenses/odbl/summary/
+# Device type: SQM-LU-DL-R2
+# Instrument ID: 
+# Data supplier: DSL
+# Location name: Calendula
+# Position (lat, lon, elev(m)): 
+# Local timezone: CET
+# Time Synchronization: 
+# Moving / Stationary position: 
+# Moving / Fixed look direction: 
+# Number of channels: 1
+# Filters per channel: 
+# Measurement direction per channel: 
+# Field of view (degrees): 
+# Number of fields per line: 5
+# SQM serial number: 7108
+# SQM hardware identity: 003BNCK
+# SQM firmware version: 4-6-82
+# SQM cover offset value: 
+# SQM readout test ix (Information): i,00000004,00000006,00000082,00007108
+# SQM readout test rx (Reading): r, 13.85m,0000000262Hz,0000000000c,0000000.000s, 018.3C
+# SQM readout test cx (Calibration): c,00000019.89m,0000251.980s, 018.6C,00000008.71m, 017.7C
+# SQM readout test Ix (Report Interval): 0000000000s,0000000000s,00000000.00m,00000000.00m
+# DL time difference (seconds): 18
+# DL retrieved at (UTC): 2025-03-08T10:14:18.118
+# DL trigger mode : Every x minutes (power save mode)
+# DL trigger seconds : 0
+# DL trigger minutes : 5
+# DL trigger threshold : 0
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# Comment: 
+# UDM version: 1.0.0.358
+# UDM setting: DL Retrieve All
+# blank line
+# UTC Date & Time, Local Date & Time, Temperature, Voltage, MSAS, Record type
+# YYYY-MM-DDTHH:mm:ss.fff;YYYY-MM-DDTHH:mm:ss.fff;Celsius;Volts;mag/arcsec^2;Init/Subs
+# END OF HEADER

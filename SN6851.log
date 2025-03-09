@@ -378,3 +378,72 @@
 2025-02-06 14:59:37.934 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
 2025-02-06 14:59:37.975 : SN 6851 : Sent: LIx   To: /dev/cu.usbserial-B001XNU8   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000006.00m,
 2025-02-06 14:59:37.991 : SN 6851 : 1080 Packets 16 bytes long.
+2025-03-08 17:11:51.200 : SN 6851 : Sent: m0x   To: /dev/cu.usbserial-B001XNU8   Received: m0,255
+2025-03-08 17:11:51.232 : SN 6851 : Sent: m1x   To: /dev/cu.usbserial-B001XNU8   Received: m1,255
+2025-03-08 17:11:51.264 : SN 6851 : Sent: m2x   To: /dev/cu.usbserial-B001XNU8   Received: m2,255
+2025-03-08 17:11:51.280 : SN 6851 : Sent: Lvx   To: /dev/cu.usbserial-B001XNU8   Received: Lv,2
+2025-03-08 17:11:51.284 : SN 6851 : ContCheck(Yx)
+2025-03-08 17:11:51.312 : SN 6851 : Sent: Yx   To: /dev/cu.usbserial-B001XNU8   Received: Yrcpu
+2025-03-08 17:11:51.360 : SN 6851 : Sent: A5x   To: /dev/cu.usbserial-B001XNU8   Received: A5,0,d
+2025-03-08 17:11:51.440 : SN 6851 : Sent: LIx   To: /dev/cu.usbserial-B001XNU8   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000006.00m,
+2025-03-08 17:11:51.472 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
+2025-03-08 17:11:51.504 : SN 6851 : Sent: LZx   To: /dev/cu.usbserial-B001XNU8   Received: LZ,0001048576
+2025-03-08 17:11:51.536 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:11:51.568 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:11:51.616 : SN 6851 : Sent: L40000006450x   To: /dev/cu.usbserial-B001XNU8   Received: L4,25-03-08 7 17:10:05,10.98, 006.4C,225,1
+2025-03-08 17:11:51.648 : SN 6851 : Sent: Lcx   To: /dev/cu.usbserial-B001XNU8   Received: Lc,25-03-08 7 17:11:54
+2025-03-08 17:11:51.653 : SN 6851 : Real Time Clock difference: 2
+2025-03-08 17:11:51.680 : SN 6851 : Sent: Ldx   To: /dev/cu.usbserial-B001XNU8   Received: Ld,1
+2025-03-08 17:11:51.712 : SN 6851 : Sent: LD1x   To: /dev/cu.usbserial-B001XNU8   Received: Ld,1
+2025-03-08 17:11:51.744 : SN 6851 : Sent: Ldx   To: /dev/cu.usbserial-B001XNU8   Received: Ld,1
+2025-03-08 17:11:51.777 : SN 6851 : CheckLockVisibility()
+2025-03-08 17:11:51.808 : SN 6851 : Sent: Ix   To: /dev/cu.usbserial-B001XNU8   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:51.812 : SN 6851 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:51.819 : SN 6851 : GetVersion result: i,00000004,00000006,00000084,00006851
+2025-03-08 17:11:51.819 : SN 6851 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:51.856 : SN 6851 : Sent: rx   To: /dev/cu.usbserial-B001XNU8   Received: r, 13.03m,0000000574Hz,0000000000c,0000000.000s, 006.7C
+2025-03-08 17:11:59.069 : SN 6851 : Sent: m0x   To: /dev/cu.usbserial-B001XNU8   Received: m0,255
+2025-03-08 17:11:59.101 : SN 6851 : Sent: m1x   To: /dev/cu.usbserial-B001XNU8   Received: m1,255
+2025-03-08 17:11:59.133 : SN 6851 : Sent: m2x   To: /dev/cu.usbserial-B001XNU8   Received: m2,255
+2025-03-08 17:11:59.165 : SN 6851 : Sent: Lvx   To: /dev/cu.usbserial-B001XNU8   Received: Lv,2
+2025-03-08 17:11:59.175 : SN 6851 : ContCheck(Yx)
+2025-03-08 17:11:59.197 : SN 6851 : Sent: Yx   To: /dev/cu.usbserial-B001XNU8   Received: Yrcpu
+2025-03-08 17:11:59.229 : SN 6851 : Sent: A5x   To: /dev/cu.usbserial-B001XNU8   Received: A5,0,d
+2025-03-08 17:11:59.293 : SN 6851 : Sent: LIx   To: /dev/cu.usbserial-B001XNU8   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000006.00m,
+2025-03-08 17:11:59.325 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
+2025-03-08 17:11:59.357 : SN 6851 : Sent: LZx   To: /dev/cu.usbserial-B001XNU8   Received: LZ,0001048576
+2025-03-08 17:11:59.389 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:11:59.421 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:11:59.469 : SN 6851 : Sent: L40000006450x   To: /dev/cu.usbserial-B001XNU8   Received: L4,25-03-08 7 17:10:05,10.98, 006.4C,225,1
+2025-03-08 17:11:59.501 : SN 6851 : Sent: Lcx   To: /dev/cu.usbserial-B001XNU8   Received: Lc,25-03-08 7 17:12:02
+2025-03-08 17:11:59.503 : SN 6851 : Real Time Clock difference: 2
+2025-03-08 17:11:59.517 : SN 6851 : Sent: Ldx   To: /dev/cu.usbserial-B001XNU8   Received: Ld,1
+2025-03-08 17:11:59.548 : SN 6851 : CheckLockVisibility()
+2025-03-08 17:11:59.581 : SN 6851 : Sent: Ix   To: /dev/cu.usbserial-B001XNU8   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:59.585 : SN 6851 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:59.590 : SN 6851 : GetVersion result: i,00000004,00000006,00000084,00006851
+2025-03-08 17:11:59.590 : SN 6851 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:11:59.629 : SN 6851 : Sent: rx   To: /dev/cu.usbserial-B001XNU8   Received: r, 13.04m,0000000566Hz,0000000000c,0000000.000s, 006.7C
+2025-03-08 17:12:03.433 : SN 6851 : Sent: LIx   To: /dev/cu.usbserial-B001XNU8   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000006.00m,
+2025-03-08 17:12:03.513 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
+2025-03-08 17:12:03.545 : SN 6851 : Sent: LZx   To: /dev/cu.usbserial-B001XNU8   Received: LZ,0001048576
+2025-03-08 17:12:03.561 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:12:03.594 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:12:03.642 : SN 6851 : Sent: L40000006450x   To: /dev/cu.usbserial-B001XNU8   Received: L4,25-03-08 7 17:10:05,10.98, 006.4C,225,1
+2025-03-08 17:12:03.673 : SN 6851 : Sent: Lcx   To: /dev/cu.usbserial-B001XNU8   Received: Lc,25-03-08 7 17:12:06
+2025-03-08 17:12:03.677 : SN 6851 : Real Time Clock difference: 2
+2025-03-08 17:12:03.706 : SN 6851 : Sent: Ldx   To: /dev/cu.usbserial-B001XNU8   Received: Ld,1
+2025-03-08 17:12:03.738 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:12:03.770 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:12:03.818 : SN 6851 : Sent: L40000000000x   To: /dev/cu.usbserial-B001XNU8   Received: L4,25-02-02 1 13:16:03,07.13, 019.9C,236,1
+2025-03-08 17:12:05.370 : SN 6851 : Sent: L1x   To: /dev/cu.usbserial-B001XNU8   Received: L1,0000006451
+2025-03-08 17:12:08.294 : SN 6851 : DL binary retrieve initiated.
+2025-03-08 17:12:08.330 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
+2025-03-08 17:12:08.362 : SN 6851 : Sent: ix   To: /dev/cu.usbserial-B001XNU8   Received: i,00000004,00000006,00000084,00006851
+2025-03-08 17:12:08.394 : SN 6851 : Sent: rx   To: /dev/cu.usbserial-B001XNU8   Received: r, 13.06m,0000000558Hz,0000000000c,0000000.000s, 007.0C
+2025-03-08 17:12:08.426 : SN 6851 : Sent: cx   To: /dev/cu.usbserial-B001XNU8   Received: c,00000019.92m,0000259.242s, 021.2C,00000008.71m, 021.2C
+2025-03-08 17:12:08.458 : SN 6851 : Sent: Ix   To: /dev/cu.usbserial-B001XNU8   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 17:12:08.490 : SN 6851 : Sent: Lcx   To: /dev/cu.usbserial-B001XNU8   Received: Lc,25-03-08 7 17:12:11
+2025-03-08 17:12:08.522 : SN 6851 : Sent: Lmx   To: /dev/cu.usbserial-B001XNU8   Received: LM,2
+2025-03-08 17:12:08.562 : SN 6851 : Sent: LIx   To: /dev/cu.usbserial-B001XNU8   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000006.00m,
+2025-03-08 17:12:08.578 : SN 6851 : 6451 Packets 16 bytes long.

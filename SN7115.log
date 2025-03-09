@@ -499,3 +499,99 @@
 2025-02-06 16:45:59.313 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
 2025-02-06 16:45:59.355 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
 2025-02-06 16:45:59.371 : SN 7115 : 50498 Packets 16 bytes long.
+2025-03-08 16:07:42.651 : SN 7115 : Sent: m0x   To: /dev/cu.usbserial-B003BNDC   Received: m0,255
+2025-03-08 16:07:42.683 : SN 7115 : Sent: m1x   To: /dev/cu.usbserial-B003BNDC   Received: m1,255
+2025-03-08 16:07:42.715 : SN 7115 : Sent: m2x   To: /dev/cu.usbserial-B003BNDC   Received: m2,255
+2025-03-08 16:07:42.730 : SN 7115 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDC   Received: Lv,2
+2025-03-08 16:07:42.731 : SN 7115 : ContCheck(Yx)
+2025-03-08 16:07:42.746 : SN 7115 : Sent: Yx   To: /dev/cu.usbserial-B003BNDC   Received: Yrcpu
+2025-03-08 16:07:42.810 : SN 7115 : Sent: A5x   To: /dev/cu.usbserial-B003BNDC   Received: A5,0,d
+2025-03-08 16:07:42.896 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 16:07:42.928 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:07:42.960 : SN 7115 : Sent: LZx   To: /dev/cu.usbserial-B003BNDC   Received: LZ,0001048576
+2025-03-08 16:07:42.992 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:43.024 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:43.072 : SN 7115 : Sent: L40000059127x   To: /dev/cu.usbserial-B003BNDC   Received: L4,25-03-08 7 16:07:05,10.88, 011.6C,225,1
+2025-03-08 16:07:43.103 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Lc,25-03-08 7 16:07:57
+2025-03-08 16:07:43.106 : SN 7115 : Real Time Clock difference: 13
+2025-03-08 16:07:43.119 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:07:43.152 : SN 7115 : Sent: LD1x   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:07:43.168 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:07:43.208 : SN 7115 : CheckLockVisibility()
+2025-03-08 16:07:43.248 : SN 7115 : Sent: Ix   To: /dev/cu.usbserial-B003BNDC   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:07:43.250 : SN 7115 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:07:43.257 : SN 7115 : GetVersion result: i,00000004,00000006,00000082,00007115
+2025-03-08 16:07:43.260 : SN 7115 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:07:43.296 : SN 7115 : Sent: rx   To: /dev/cu.usbserial-B003BNDC   Received: r, 09.42m,0000015841Hz,0000000000c,0000000.000s, 011.2C
+2025-03-08 16:07:49.989 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 16:07:50.068 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:07:50.100 : SN 7115 : Sent: LZx   To: /dev/cu.usbserial-B003BNDC   Received: LZ,0001048576
+2025-03-08 16:07:50.132 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:50.164 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:50.212 : SN 7115 : Sent: L40000059127x   To: /dev/cu.usbserial-B003BNDC   Received: L4,25-03-08 7 16:07:05,10.88, 011.6C,225,1
+2025-03-08 16:07:50.244 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Lc,25-03-08 7 16:08:05
+2025-03-08 16:07:50.248 : SN 7115 : Real Time Clock difference: 14
+2025-03-08 16:07:50.276 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:07:50.308 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:50.340 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:50.388 : SN 7115 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNDC   Received: L4,24-08-15 5 08:19:06,08.52, 024.4C,236,0
+2025-03-08 16:07:52.116 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:07:56.015 : SN 7115 : DL binary retrieve initiated.
+2025-03-08 16:07:56.050 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:07:56.082 : SN 7115 : Sent: ix   To: /dev/cu.usbserial-B003BNDC   Received: i,00000004,00000006,00000082,00007115
+2025-03-08 16:07:56.114 : SN 7115 : Sent: rx   To: /dev/cu.usbserial-B003BNDC   Received: r, 09.24m,0000018594Hz,0000000000c,0000000.000s, 011.6C
+2025-03-08 16:07:56.146 : SN 7115 : Sent: cx   To: /dev/cu.usbserial-B003BNDC   Received: c,00000019.91m,0000274.655s, 018.6C,00000008.71m, 018.6C
+2025-03-08 16:07:56.178 : SN 7115 : Sent: Ix   To: /dev/cu.usbserial-B003BNDC   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:07:56.210 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Lc,25-03-08 7 16:08:11
+2025-03-08 16:07:56.242 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:07:56.282 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 16:07:56.298 : SN 7115 : 59128 Packets 16 bytes long.
+2025-03-08 16:16:14.265 : SN 7115 : DL binary retrieve initiated.
+2025-03-08 16:16:14.300 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:16:14.333 : SN 7115 : Sent: ix   To: /dev/cu.usbserial-B003BNDC   Received: i,00000004,00000006,00000082,00007115
+2025-03-08 16:16:14.364 : SN 7115 : Sent: rx   To: /dev/cu.usbserial-B003BNDC   Received: r, 11.01m,0000003632Hz,0000000000c,0000000.000s, 016.7C
+2025-03-08 16:16:14.396 : SN 7115 : Sent: cx   To: /dev/cu.usbserial-B003BNDC   Received: c,00000019.91m,0000274.655s, 018.6C,00000008.71m, 018.6C
+2025-03-08 16:16:14.429 : SN 7115 : Sent: Ix   To: /dev/cu.usbserial-B003BNDC   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:16:14.460 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Lc,25-03-08 7 16:16:29
+2025-03-08 16:16:14.493 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:16:14.535 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 16:16:14.550 : SN 7115 : 59128 Packets 16 bytes long.
+2025-03-08 16:16:32.582 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received:  "$ZIÕË â#LM,2
+2025-03-08 16:16:46.320 : SN 7115 : Sent: m0x   To: /dev/cu.usbserial-B003BNDC   Received: m0,255
+2025-03-08 16:16:46.352 : SN 7115 : Sent: m1x   To: /dev/cu.usbserial-B003BNDC   Received: m1,255
+2025-03-08 16:16:46.384 : SN 7115 : Sent: m2x   To: /dev/cu.usbserial-B003BNDC   Received: m2,255
+2025-03-08 16:16:46.416 : SN 7115 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDC   Received: Lv,2
+2025-03-08 16:16:46.426 : SN 7115 : ContCheck(Yx)
+2025-03-08 16:16:46.448 : SN 7115 : Sent: Yx   To: /dev/cu.usbserial-B003BNDC   Received: Yrcpu
+2025-03-08 16:16:46.512 : SN 7115 : Sent: A5x   To: /dev/cu.usbserial-B003BNDC   Received: A5,0,d
+2025-03-08 16:16:46.590 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-03-08 16:16:46.622 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: LM,2
+2025-03-08 16:16:46.654 : SN 7115 : Sent: LZx   To: /dev/cu.usbserial-B003BNDC   Received: LZ,0001048576
+2025-03-08 16:16:46.686 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:16:46.718 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: L1,0000059128
+2025-03-08 16:16:46.766 : SN 7115 : Sent: L40000059127x   To: /dev/cu.usbserial-B003BNDC   Received: L4,25-03-08 7 16:07:05,10.88, 011.6C,225,1
+2025-03-08 16:16:46.814 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Lc,25-03-08 7 16:17:01
+2025-03-08 16:16:46.823 : SN 7115 : Real Time Clock difference: 14
+2025-03-08 16:16:46.846 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:16:46.878 : SN 7115 : Sent: LD1x   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:16:46.910 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Ld,1
+2025-03-08 16:16:46.947 : SN 7115 : CheckLockVisibility()
+2025-03-08 16:16:46.990 : SN 7115 : Sent: Ix   To: /dev/cu.usbserial-B003BNDC   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:16:46.998 : SN 7115 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:16:47.009 : SN 7115 : GetVersion result: i,00000004,00000006,00000082,00007115
+2025-03-08 16:16:47.010 : SN 7115 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-03-08 16:16:47.038 : SN 7115 : Sent: rx   To: /dev/cu.usbserial-B003BNDC   Received: r, 12.32m,0000001101Hz,0000000000c,0000000.000s, 016.7C
+2025-03-08 16:36:59.427 : SN 7115 : Sent: LIx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.495 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.507 : SN 7115 : Sent: LZx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.523 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.538 : SN 7115 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.560 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.572 : SN 7115 : Sent: LD0x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.588 : SN 7115 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.603 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.618 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:36:59.631 : SN 7115 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:37:01.163 : SN 7115 : Sent: L1x   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
+2025-03-08 16:37:05.929 : SN 7115 : DL binary retrieve initiated.
+2025-03-08 16:37:05.955 : SN 7115 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDC   Received: Error: Instance not yet connected
