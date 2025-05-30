@@ -710,3 +710,51 @@
 2025-04-21 19:47:06.295 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
 2025-04-21 19:47:06.334 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000004m,00000000.00m,
 2025-04-21 19:47:06.350 : SN 7116 : 66557 Packets 16 bytes long.
+2025-05-25 06:11:57.302 : SN 7116 : Sent: m0x   To: /dev/cu.usbserial-B003BNDH   Received: m0,255
+2025-05-25 06:11:57.334 : SN 7116 : Sent: m1x   To: /dev/cu.usbserial-B003BNDH   Received: m1,255
+2025-05-25 06:11:57.366 : SN 7116 : Sent: m2x   To: /dev/cu.usbserial-B003BNDH   Received: m2,255
+2025-05-25 06:11:57.398 : SN 7116 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDH   Received: Lv,2
+2025-05-25 06:11:57.407 : SN 7116 : ContCheck(Yx)
+2025-05-25 06:11:57.430 : SN 7116 : Sent: Yx   To: /dev/cu.usbserial-B003BNDH   Received: Yrcpu
+2025-05-25 06:11:57.529 : SN 7116 : Sent: A5x   To: /dev/cu.usbserial-B003BNDH   Received: A5,0,d
+2025-05-25 06:11:57.637 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-25 06:11:57.669 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-05-25 06:11:57.701 : SN 7116 : Sent: LZx   To: /dev/cu.usbserial-B003BNDH   Received: LZ,0001048576
+2025-05-25 06:11:57.733 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:11:57.765 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:11:57.813 : SN 7116 : Sent: L40000075397x   To: /dev/cu.usbserial-B003BNDH   Received: L4,25-05-25 1 06:12:05,11.08, 010.3C,217,1
+2025-05-25 06:11:57.845 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-05-25 1 06:13:00
+2025-05-25 06:11:57.848 : SN 7116 : Real Time Clock difference: 62
+2025-05-25 06:11:57.877 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-05-25 06:11:57.909 : SN 7116 : Sent: LD1x   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-05-25 06:11:57.925 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-05-25 06:11:57.969 : SN 7116 : CheckLockVisibility()
+2025-05-25 06:11:58.005 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-25 06:11:58.008 : SN 7116 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-25 06:11:58.017 : SN 7116 : GetVersion result: i,00000004,00000006,00000082,00007116
+2025-05-25 06:11:58.018 : SN 7116 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-25 06:11:58.053 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 09.03m,0000022447Hz,0000000000c,0000000.000s, 009.6C
+2025-05-25 06:12:00.628 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-25 06:12:00.724 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-05-25 06:12:00.756 : SN 7116 : Sent: LZx   To: /dev/cu.usbserial-B003BNDH   Received: LZ,0001048576
+2025-05-25 06:12:00.788 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:12:00.820 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:12:00.868 : SN 7116 : Sent: L40000075397x   To: /dev/cu.usbserial-B003BNDH   Received: L4,25-05-25 1 06:12:05,11.08, 010.3C,217,1
+2025-05-25 06:12:00.900 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-05-25 1 06:13:03
+2025-05-25 06:12:00.905 : SN 7116 : Real Time Clock difference: 62
+2025-05-25 06:12:00.932 : SN 7116 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDH   Received: Ld,1
+2025-05-25 06:12:00.964 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:12:00.996 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:12:01.044 : SN 7116 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNDH   Received: L4,24-09-02 2 16:48:07,08.20, 021.2C,218,0
+2025-05-25 06:12:02.372 : SN 7116 : Sent: L1x   To: /dev/cu.usbserial-B003BNDH   Received: L1,0000075398
+2025-05-25 06:12:05.247 : SN 7116 : DL binary retrieve initiated.
+2025-05-25 06:12:05.283 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-05-25 06:12:05.315 : SN 7116 : Sent: ix   To: /dev/cu.usbserial-B003BNDH   Received: i,00000004,00000006,00000082,00007116
+2025-05-25 06:12:05.347 : SN 7116 : Sent: rx   To: /dev/cu.usbserial-B003BNDH   Received: r, 08.97m,0000023867Hz,0000000000c,0000000.000s, 009.9C
+2025-05-25 06:12:05.379 : SN 7116 : Sent: cx   To: /dev/cu.usbserial-B003BNDH   Received: c,00000019.91m,0000300.000s, 018.3C,00000008.71m, 017.7C
+2025-05-25 06:12:05.411 : SN 7116 : Sent: Ix   To: /dev/cu.usbserial-B003BNDH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-25 06:12:05.443 : SN 7116 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDH   Received: Lc,25-05-25 1 06:13:07
+2025-05-25 06:12:05.475 : SN 7116 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDH   Received: LM,2
+2025-05-25 06:12:05.516 : SN 7116 : Sent: LIx   To: /dev/cu.usbserial-B003BNDH   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-25 06:12:05.532 : SN 7116 : 75398 Packets 16 bytes long.
+2025-05-25 06:22:57.759 : SN 7116 : Error receiving data: Timeout during operation at record #: 75231

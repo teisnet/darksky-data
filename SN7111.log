@@ -48,3 +48,121 @@
 2025-01-22 16:42:45.198 : SN 7111 : Set trigger mode to value 2
 2025-01-22 16:43:08.443 : SN 7111 : Sent: LPM0000000005x   To: /dev/tty.usbserial-B003BNDG   Received: LP,M0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
 2025-01-22 16:43:40.258 : SN 7111 : Sent: LPM0000000005x   To: /dev/tty.usbserial-B003BNDG   Received: LP,M0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:40:40.047 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:40:40.079 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:40:40.112 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:40:40.143 : SN 7111 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDG   Received: Lv,2
+2025-05-04 09:40:40.146 : SN 7111 : ContCheck(Yx)
+2025-05-04 09:40:40.159 : SN 7111 : Sent: Yx   To: /dev/cu.usbserial-B003BNDG   Received: Yrcpu
+2025-05-04 09:40:40.207 : SN 7111 : Sent: A5x   To: /dev/cu.usbserial-B003BNDG   Received: A5,0,d
+2025-05-04 09:40:40.284 : SN 7111 : Sent: LIx   To: /dev/cu.usbserial-B003BNDG   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:40:40.316 : SN 7111 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDG   Received: LM,2
+2025-05-04 09:40:40.348 : SN 7111 : Sent: LZx   To: /dev/cu.usbserial-B003BNDG   Received: LZ,0001048576
+2025-05-04 09:40:40.380 : SN 7111 : Sent: L1x   To: /dev/cu.usbserial-B003BNDG   Received: L1,0000000414
+2025-05-04 09:40:40.412 : SN 7111 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDG   Received: Lc,02-09-26 6 02:14:21
+2025-05-04 09:40:40.415 : SN 7111 : Real Time Clock difference: 713345179
+2025-05-04 09:40:40.444 : SN 7111 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:40:40.476 : SN 7111 : Sent: LD1x   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:40:40.492 : SN 7111 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:40:40.528 : SN 7111 : CheckLockVisibility()
+2025-05-04 09:40:40.573 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:40:40.598 : SN 7111 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:40:40.612 : SN 7111 : GetVersion result: i,00000004,00000006,00000082,00007111
+2025-05-04 09:40:40.630 : SN 7111 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:40:40.669 : SN 7111 : Sent: rx   To: /dev/cu.usbserial-B003BNDG   Received: r, 09.69m,0000012567Hz,0000000000c,0000000.000s, 018.6C
+2025-05-04 09:41:18.194 : SN 7111 : Sent: ix   To: /dev/cu.usbserial-B003BNDG   Received: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:18.242 : SN 7111 : Sent: rx   To: /dev/cu.usbserial-B003BNDG   Received: r, 09.43m,0000015973Hz,0000000000c,0000000.000s, 019.3C
+2025-05-04 09:41:18.274 : SN 7111 : Sent: cx   To: /dev/cu.usbserial-B003BNDG   Received: c,00000019.94m,0000145.855s, 018.6C,00000008.71m, 018.3C
+2025-05-04 09:41:18.306 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:18.338 : SN 7111 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDG   Received: Lc,02-09-26 6 02:14:59
+2025-05-04 09:41:18.370 : SN 7111 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDG   Received: LM,2
+2025-05-04 09:41:18.412 : SN 7111 : Sent: LIx   To: /dev/cu.usbserial-B003BNDG   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:41:18.444 : SN 7111 : Sent: rx   To: /dev/cu.usbserial-B003BNDG   Received: r, 09.43m,0000015973Hz,0000000000c,0000000.000s, 019.3C
+2025-05-04 09:41:24.850 : SN 7111 : GetVersion called.
+2025-05-04 09:41:24.908 : SN 7111 : Sent: ix   To: /dev/cu.usbserial-B003BNDG   Received: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:24.940 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:41:24.956 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:41:24.972 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:41:24.988 : SN 7111 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDG   Received: Lv,2
+2025-05-04 09:41:24.990 : SN 7111 : ContCheck(Yx)
+2025-05-04 09:41:25.004 : SN 7111 : Sent: Yx   To: /dev/cu.usbserial-B003BNDG   Received: Yrcpu
+2025-05-04 09:41:25.020 : SN 7111 : Sent: A5x   To: /dev/cu.usbserial-B003BNDG   Received: A5,0,d
+2025-05-04 09:41:25.094 : SN 7111 : Sent: LIx   To: /dev/cu.usbserial-B003BNDG   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:41:25.126 : SN 7111 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDG   Received: LM,2
+2025-05-04 09:41:25.158 : SN 7111 : Sent: LZx   To: /dev/cu.usbserial-B003BNDG   Received: LZ,0001048576
+2025-05-04 09:41:25.190 : SN 7111 : Sent: L1x   To: /dev/cu.usbserial-B003BNDG   Received: L1,0000000414
+2025-05-04 09:41:25.222 : SN 7111 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDG   Received: Lc,02-09-26 6 02:15:06
+2025-05-04 09:41:25.226 : SN 7111 : Real Time Clock difference: 713345179
+2025-05-04 09:41:25.254 : SN 7111 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:41:25.258 : SN 7111 : CheckLockVisibility()
+2025-05-04 09:41:25.286 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:25.292 : SN 7111 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:25.301 : SN 7111 : GetVersion result: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:25.314 : SN 7111 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:25.339 : SN 7111 : GetConfReading called.
+2025-05-04 09:41:25.382 : SN 7111 : Sent: ux   To: /dev/cu.usbserial-B003BNDG   Received: u, 09.43m,0000016030Hz,0000000000c,0000000.000s, 019.3C
+2025-05-04 09:41:25.414 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:41:25.446 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:41:25.478 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:41:25.482 : SN 7111 : GetConfCal called.
+2025-05-04 09:41:25.526 : SN 7111 : Sent: cx   To: /dev/cu.usbserial-B003BNDG   Received: c,00000019.94m,0000145.855s, 018.6C,00000008.71m, 018.3C
+2025-05-04 09:41:31.655 : SN 7111 : Sent: A1x   To: /dev/cu.usbserial-B003BNDG   Received: A,1,D,7,0,00986,01673
+2025-05-04 09:41:31.768 : SN 7111 : Sent: A2x   To: /dev/cu.usbserial-B003BNDG   Received: A,2,D,3,F,7,P
+2025-05-04 09:41:31.800 : SN 7111 : Sent: A2Px   To: /dev/cu.usbserial-B003BNDG   Received: A,2,D,3,F,7,P
+2025-05-04 09:41:31.832 : SN 7111 : Sent: A3x   To: /dev/cu.usbserial-B003BNDG   Received: A,3,D,0,1
+2025-05-04 09:41:31.864 : SN 7111 : Sent: A31x   To: /dev/cu.usbserial-B003BNDG   Received: A,3,D,0,1
+2025-05-04 09:41:31.896 : SN 7111 : Sent: A4x   To: /dev/cu.usbserial-B003BNDG   Received: A,4,0,7,31,-061,144,014
+2025-05-04 09:41:42.066 : SN 7111 : GetVersion called.
+2025-05-04 09:41:42.137 : SN 7111 : Sent: ix   To: /dev/cu.usbserial-B003BNDG   Received: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:42.169 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:41:42.185 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:41:42.217 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:41:42.249 : SN 7111 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDG   Received: Lv,2
+2025-05-04 09:41:42.253 : SN 7111 : ContCheck(Yx)
+2025-05-04 09:41:42.281 : SN 7111 : Sent: Yx   To: /dev/cu.usbserial-B003BNDG   Received: Yrcpu
+2025-05-04 09:41:42.297 : SN 7111 : Sent: A5x   To: /dev/cu.usbserial-B003BNDG   Received: A5,0,d
+2025-05-04 09:41:42.369 : SN 7111 : Sent: LIx   To: /dev/cu.usbserial-B003BNDG   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:41:42.401 : SN 7111 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDG   Received: LM,2
+2025-05-04 09:41:42.433 : SN 7111 : Sent: LZx   To: /dev/cu.usbserial-B003BNDG   Received: LZ,0001048576
+2025-05-04 09:41:42.465 : SN 7111 : Sent: L1x   To: /dev/cu.usbserial-B003BNDG   Received: L1,0000000414
+2025-05-04 09:41:42.513 : SN 7111 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDG   Received: Lc,02-09-26 6 02:15:23
+2025-05-04 09:41:42.521 : SN 7111 : Real Time Clock difference: 713345179
+2025-05-04 09:41:42.545 : SN 7111 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:41:42.556 : SN 7111 : CheckLockVisibility()
+2025-05-04 09:41:42.577 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:42.588 : SN 7111 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:42.594 : SN 7111 : GetVersion result: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:42.614 : SN 7111 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:42.618 : SN 7111 : GetConfReading called.
+2025-05-04 09:41:42.657 : SN 7111 : Sent: ux   To: /dev/cu.usbserial-B003BNDG   Received: u, 09.40m,0000016596Hz,0000000000c,0000000.000s, 019.3C
+2025-05-04 09:41:42.689 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:41:42.721 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:41:42.753 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:41:42.770 : SN 7111 : GetConfCal called.
+2025-05-04 09:41:42.801 : SN 7111 : Sent: cx   To: /dev/cu.usbserial-B003BNDG   Received: c,00000019.94m,0000145.855s, 018.6C,00000008.71m, 018.3C
+2025-05-04 09:41:48.546 : SN 7111 : Sent: cx   To: /dev/cu.usbserial-B003BNDG   Received: c,00000019.94m,0000145.855s, 018.6C,00000008.71m, 018.3C
+2025-05-04 09:41:49.426 : SN 7111 : Sent: rx   To: /dev/cu.usbserial-B003BNDG   Received: r, 09.91m,0000010336Hz,0000000000c,0000000.000s, 019.3C
+2025-05-04 09:41:49.490 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:49.494 : SN 7111 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:49.502 : SN 7111 : ContCheck(Yx)
+2025-05-04 09:41:49.522 : SN 7111 : Sent: Yx   To: /dev/cu.usbserial-B003BNDG   Received: Yrcpu
+2025-05-04 09:41:56.675 : SN 7111 : Sent: m0x   To: /dev/cu.usbserial-B003BNDG   Received: m0,255
+2025-05-04 09:41:56.707 : SN 7111 : Sent: m1x   To: /dev/cu.usbserial-B003BNDG   Received: m1,255
+2025-05-04 09:41:56.739 : SN 7111 : Sent: m2x   To: /dev/cu.usbserial-B003BNDG   Received: m2,255
+2025-05-04 09:41:56.755 : SN 7111 : Sent: Lvx   To: /dev/cu.usbserial-B003BNDG   Received: Lv,2
+2025-05-04 09:41:56.759 : SN 7111 : ContCheck(Yx)
+2025-05-04 09:41:56.787 : SN 7111 : Sent: Yx   To: /dev/cu.usbserial-B003BNDG   Received: Yrcpu
+2025-05-04 09:41:56.803 : SN 7111 : Sent: A5x   To: /dev/cu.usbserial-B003BNDG   Received: A5,0,d
+2025-05-04 09:41:56.877 : SN 7111 : Sent: LIx   To: /dev/cu.usbserial-B003BNDG   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-05-04 09:41:56.909 : SN 7111 : Sent: Lmx   To: /dev/cu.usbserial-B003BNDG   Received: LM,2
+2025-05-04 09:41:56.941 : SN 7111 : Sent: LZx   To: /dev/cu.usbserial-B003BNDG   Received: LZ,0001048576
+2025-05-04 09:41:56.973 : SN 7111 : Sent: L1x   To: /dev/cu.usbserial-B003BNDG   Received: L1,0000000414
+2025-05-04 09:41:57.021 : SN 7111 : Sent: Lcx   To: /dev/cu.usbserial-B003BNDG   Received: Lc,02-09-26 6 02:15:38
+2025-05-04 09:41:57.031 : SN 7111 : Real Time Clock difference: 713345179
+2025-05-04 09:41:57.052 : SN 7111 : Sent: Ldx   To: /dev/cu.usbserial-B003BNDG   Received: Ld,1
+2025-05-04 09:41:57.089 : SN 7111 : CheckLockVisibility()
+2025-05-04 09:41:57.133 : SN 7111 : Sent: Ix   To: /dev/cu.usbserial-B003BNDG   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:57.136 : SN 7111 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:57.139 : SN 7111 : GetVersion result: i,00000004,00000006,00000082,00007111
+2025-05-04 09:41:57.140 : SN 7111 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-05-04 09:41:57.164 : SN 7111 : Sent: rx   To: /dev/cu.usbserial-B003BNDG   Received: r, 09.90m,0000010449Hz,0000000000c,0000000.000s, 019.3C
