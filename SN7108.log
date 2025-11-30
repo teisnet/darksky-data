@@ -1094,3 +1094,162 @@
 2025-05-24 11:42:28.197 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
 2025-05-24 11:42:28.237 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000004m,00000000.00m,
 2025-05-24 11:42:28.254 : SN 7108 : 82949 Packets 16 bytes long.
+2025-06-23 10:29:20.976 : SN 7108 : Sent: m0x   To: /dev/cu.usbserial-B003BNCK   Received: m0,255
+2025-06-23 10:29:21.007 : SN 7108 : Sent: m1x   To: /dev/cu.usbserial-B003BNCK   Received: m1,255
+2025-06-23 10:29:21.040 : SN 7108 : Sent: m2x   To: /dev/cu.usbserial-B003BNCK   Received: m2,255
+2025-06-23 10:29:21.072 : SN 7108 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCK   Received: Lv,2
+2025-06-23 10:29:21.084 : SN 7108 : ContCheck(Yx)
+2025-06-23 10:29:21.104 : SN 7108 : Sent: Yx   To: /dev/cu.usbserial-B003BNCK   Received: Yrcpu
+2025-06-23 10:29:21.167 : SN 7108 : Sent: A5x   To: /dev/cu.usbserial-B003BNCK   Received: A5,0,d
+2025-06-23 10:29:21.269 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-23 10:29:21.302 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:29:21.334 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-06-23 10:29:21.366 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:21.397 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:21.446 : SN 7108 : Sent: L40000091571x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-23 2 10:27:05,11.05, 020.9C,222,1
+2025-06-23 10:29:21.494 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-23 2 10:29:51
+2025-06-23 10:29:21.497 : SN 7108 : Real Time Clock difference: 29
+2025-06-23 10:29:21.525 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-23 10:29:21.558 : SN 7108 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-23 10:29:21.573 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-23 10:29:21.604 : SN 7108 : CheckLockVisibility()
+2025-06-23 10:29:21.638 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 10:29:21.641 : SN 7108 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 10:29:21.651 : SN 7108 : GetVersion result: i,00000004,00000006,00000082,00007108
+2025-06-23 10:29:21.653 : SN 7108 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 10:29:21.686 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 11.87m,0000001619Hz,0000000000c,0000000.000s, 021.2C
+2025-06-23 10:29:25.147 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-23 10:29:25.243 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:29:25.275 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-06-23 10:29:25.307 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:25.339 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:25.387 : SN 7108 : Sent: L40000091571x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-23 2 10:27:05,11.05, 020.9C,222,1
+2025-06-23 10:29:25.419 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-23 2 10:29:55
+2025-06-23 10:29:25.425 : SN 7108 : Real Time Clock difference: 29
+2025-06-23 10:29:25.451 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-23 10:29:25.483 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:25.515 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:25.563 : SN 7108 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCK   Received: L4,24-06-06 5 14:32:44,07.67, 024.4C,230,0
+2025-06-23 10:29:27.467 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091572
+2025-06-23 10:29:29.896 : SN 7108 : DL binary retrieve initiated.
+2025-06-23 10:29:29.931 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:29:29.963 : SN 7108 : Sent: ix   To: /dev/cu.usbserial-B003BNCK   Received: i,00000004,00000006,00000082,00007108
+2025-06-23 10:29:29.994 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 11.85m,0000001652Hz,0000000000c,0000000.000s, 020.9C
+2025-06-23 10:29:30.026 : SN 7108 : Sent: cx   To: /dev/cu.usbserial-B003BNCK   Received: c,00000019.89m,0000251.980s, 018.6C,00000008.71m, 017.7C
+2025-06-23 10:29:30.059 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 10:29:30.091 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-23 2 10:29:59
+2025-06-23 10:29:30.122 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:29:30.164 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-23 10:29:30.179 : SN 7108 : 91572 Packets 16 bytes long.
+2025-06-23 10:42:56.995 : SN 7108 : Error receiving data: Timeout during operation at record #: 52893
+2025-06-23 10:43:40.042 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:43:40.090 : SN 7108 : Sent: ix   To: /dev/cu.usbserial-B003BNCK   Received: i,00000004,00000006,00000082,00007108
+2025-06-23 10:43:40.122 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 11.02m,0000003541Hz,0000000000c,0000000.000s, 021.2C
+2025-06-23 10:43:40.154 : SN 7108 : Sent: cx   To: /dev/cu.usbserial-B003BNCK   Received: c,00000019.89m,0000251.980s, 018.6C,00000008.71m, 017.7C
+2025-06-23 10:43:40.186 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 10:43:40.234 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-23 2 10:44:10
+2025-06-23 10:43:40.265 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-23 10:43:40.307 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000003m,00000000.00m,
+2025-06-23 10:43:40.311 : SN 7108 : DLRetrieveRange: End record was -1, set to 91572
+2025-06-23 10:49:30.300 : SN 7108 : Failed: actual count = 0 , desired count = 8 
+2025-06-23 10:56:51.595 : SN 7108 : Failed: actual count = 0 , desired count = 8 
+2025-06-23 11:05:08.003 : SN 7108 : Failed: actual count = 0 , desired count = 8 
+2025-06-23 11:05:11.019 : SN 7108 : Failed: actual count = 0 , desired count = 8 
+2025-06-23 11:24:27.985 : SN 7108 : Retrieved range ASCII: 52800 to -1
+2025-06-24 16:49:00.856 : SN 7108 : Sent: m0x   To: /dev/cu.usbserial-B003BNCK   Received: m0,255
+2025-06-24 16:49:00.888 : SN 7108 : Sent: m1x   To: /dev/cu.usbserial-B003BNCK   Received: m1,255
+2025-06-24 16:49:00.904 : SN 7108 : Sent: m2x   To: /dev/cu.usbserial-B003BNCK   Received: m2,255
+2025-06-24 16:49:00.920 : SN 7108 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCK   Received: Lv,2
+2025-06-24 16:49:00.922 : SN 7108 : ContCheck(Yx)
+2025-06-24 16:49:00.936 : SN 7108 : Sent: Yx   To: /dev/cu.usbserial-B003BNCK   Received: Yrcpu
+2025-06-24 16:49:00.984 : SN 7108 : Sent: A5x   To: /dev/cu.usbserial-B003BNCK   Received: A5,0,d
+2025-06-24 16:49:01.061 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-24 16:49:01.093 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-24 16:49:01.125 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-06-24 16:49:01.157 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:49:01.189 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:49:01.237 : SN 7108 : Sent: L40000091921x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-24 3 16:44:05,11.20, 020.3C,222,1
+2025-06-24 16:49:01.269 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-24 3 16:49:29
+2025-06-24 16:49:01.273 : SN 7108 : Real Time Clock difference: 27
+2025-06-24 16:49:01.301 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-24 16:49:01.333 : SN 7108 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-24 16:49:01.365 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-24 16:49:01.399 : SN 7108 : CheckLockVisibility()
+2025-06-24 16:49:01.429 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:49:01.432 : SN 7108 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:49:01.441 : SN 7108 : GetVersion result: i,00000004,00000006,00000082,00007108
+2025-06-24 16:49:01.444 : SN 7108 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:49:01.477 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 10.53m,0000005580Hz,0000000000c,0000000.000s, 020.6C
+2025-06-24 16:50:06.097 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-24 16:50:06.177 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-24 16:50:06.209 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-06-24 16:50:06.241 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:50:06.273 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:50:06.321 : SN 7108 : Sent: L40000091921x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-24 3 16:44:05,11.20, 020.3C,222,1
+2025-06-24 16:50:06.353 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-24 3 16:50:34
+2025-06-24 16:50:06.361 : SN 7108 : Real Time Clock difference: 27
+2025-06-24 16:50:06.385 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-06-24 16:50:06.417 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:50:06.449 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:50:06.497 : SN 7108 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCK   Received: L4,24-06-06 5 14:32:44,07.67, 024.4C,230,0
+2025-06-24 16:50:08.640 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-06-24 16:50:11.453 : SN 7108 : DL binary retrieve initiated.
+2025-06-24 16:50:11.488 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-24 16:50:11.520 : SN 7108 : Sent: ix   To: /dev/cu.usbserial-B003BNCK   Received: i,00000004,00000006,00000082,00007108
+2025-06-24 16:50:11.552 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 10.63m,0000005115Hz,0000000000c,0000000.000s, 020.9C
+2025-06-24 16:50:11.584 : SN 7108 : Sent: cx   To: /dev/cu.usbserial-B003BNCK   Received: c,00000019.89m,0000251.980s, 018.6C,00000008.71m, 017.7C
+2025-06-24 16:50:11.616 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:50:11.648 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-06-24 3 16:50:40
+2025-06-24 16:50:11.680 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-06-24 16:50:11.722 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-24 16:50:11.738 : SN 7108 : 91922 Packets 16 bytes long.
+2025-08-10 13:58:13.203 : SN 7108 : Sent: m0x   To: /dev/cu.usbserial-B003BNCK   Received: m0,255
+2025-08-10 13:58:13.234 : SN 7108 : Sent: m1x   To: /dev/cu.usbserial-B003BNCK   Received: m1,255
+2025-08-10 13:58:13.250 : SN 7108 : Sent: m2x   To: /dev/cu.usbserial-B003BNCK   Received: m2,255
+2025-08-10 13:58:13.267 : SN 7108 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCK   Received: Lv,2
+2025-08-10 13:58:13.271 : SN 7108 : ContCheck(Yx)
+2025-08-10 13:58:13.299 : SN 7108 : Sent: Yx   To: /dev/cu.usbserial-B003BNCK   Received: Yrcpu
+2025-08-10 13:58:13.347 : SN 7108 : Sent: A5x   To: /dev/cu.usbserial-B003BNCK   Received: A5,0,d
+2025-08-10 13:58:13.426 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-08-10 13:58:13.458 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-08-10 13:58:13.490 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-08-10 13:58:13.522 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:13.554 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:13.601 : SN 7108 : Sent: L40000091921x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-24 3 16:44:05,11.20, 020.3C,222,1
+2025-08-10 13:58:13.634 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-07-12 7 19:37:18
+2025-08-10 13:58:13.639 : SN 7108 : Real Time Clock difference: 2485255
+2025-08-10 13:58:13.665 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-08-10 13:58:13.698 : SN 7108 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-08-10 13:58:13.730 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-08-10 13:58:13.763 : SN 7108 : CheckLockVisibility()
+2025-08-10 13:58:13.794 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:58:13.798 : SN 7108 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:58:13.807 : SN 7108 : GetVersion result: i,00000004,00000006,00000082,00007108
+2025-08-10 13:58:13.810 : SN 7108 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:58:13.842 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 09.23m,0000018583Hz,0000000000c,0000000.000s, 022.2C
+2025-08-10 13:58:18.113 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-08-10 13:58:18.208 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-08-10 13:58:18.240 : SN 7108 : Sent: LZx   To: /dev/cu.usbserial-B003BNCK   Received: LZ,0001048576
+2025-08-10 13:58:18.273 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:18.305 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:18.352 : SN 7108 : Sent: L40000091921x   To: /dev/cu.usbserial-B003BNCK   Received: L4,25-06-24 3 16:44:05,11.20, 020.3C,222,1
+2025-08-10 13:58:18.384 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-07-12 7 19:37:18
+2025-08-10 13:58:18.390 : SN 7108 : Real Time Clock difference: 2485260
+2025-08-10 13:58:18.416 : SN 7108 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCK   Received: Ld,1
+2025-08-10 13:58:18.448 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:18.480 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:18.529 : SN 7108 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCK   Received: L4,24-06-06 5 14:32:44,07.67, 024.4C,230,0
+2025-08-10 13:58:19.840 : SN 7108 : Sent: L1x   To: /dev/cu.usbserial-B003BNCK   Received: L1,0000091922
+2025-08-10 13:58:25.598 : SN 7108 : DL binary retrieve initiated.
+2025-08-10 13:58:25.647 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-08-10 13:58:25.679 : SN 7108 : Sent: ix   To: /dev/cu.usbserial-B003BNCK   Received: i,00000004,00000006,00000082,00007108
+2025-08-10 13:58:25.711 : SN 7108 : Sent: rx   To: /dev/cu.usbserial-B003BNCK   Received: r, 09.29m,0000017510Hz,0000000000c,0000000.000s, 022.2C
+2025-08-10 13:58:25.743 : SN 7108 : Sent: cx   To: /dev/cu.usbserial-B003BNCK   Received: c,00000019.89m,0000251.980s, 018.6C,00000008.71m, 017.7C
+2025-08-10 13:58:25.775 : SN 7108 : Sent: Ix   To: /dev/cu.usbserial-B003BNCK   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:58:25.807 : SN 7108 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCK   Received: Lc,25-07-12 7 19:37:18
+2025-08-10 13:58:25.839 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: LM,2
+2025-08-10 13:58:25.880 : SN 7108 : Sent: LIx   To: /dev/cu.usbserial-B003BNCK   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-08-10 13:58:25.896 : SN 7108 : 91922 Packets 16 bytes long.
+2025-08-10 14:08:01.759 : SN 7108 : DL binary retrieve initiated.
+2025-08-10 14:08:01.783 : SN 7108 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCK   Received: %    Ë ﬁÁLM,2
+2025-08-10 14:08:06.055 : SN 7108 : Error receiving data: Instance not yet connected at record #: 71989

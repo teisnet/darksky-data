@@ -1,33 +1,17 @@
-2025-05-25 07:56:46.390 : UDM Started. Local time: 2025-05-25 09:56:46
-2025-05-25 07:56:47.547 : Looking for .goto files here: /Applications/udm.app/Contents/Resources//*.goto
-2025-05-25 07:56:47.554 : 0: default.goto
-2025-05-25 07:56:48.064 : UDM Version: 1.0.0.358
-2025-05-25 07:56:48.064 : Operating system: MacOSX (Darwin)
-2025-05-25 07:56:48.064 : Started at: 2025-05-25 09:56:48
-2025-05-25 07:56:48.065 : Started as:  /Applications/udm.app/Contents/MacOS/udm
-2025-05-25 07:56:48.068 : ConfigFilePath: /Users/pietdraiby//Documents/udm/udm.cfg
-2025-05-25 07:56:48.072 : Press the Version or Reading button to see results from the selected device.
-2025-05-25 07:56:48.078 : Finished USB search. Found 0 matches
-2025-05-25 07:56:48.079 : Looking for Ethernet connections on this machine.
-2025-05-25 07:56:48.170 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
-2025-05-25 07:56:50.188 : Finished looking for Ethernet devices.
-2025-05-25 07:56:50.191 : Getting InstrumentIDs.
-2025-05-25 07:56:50.192 : No devices were found
-2025-05-25 07:56:50.192 : Populated FoundDevices window.
-2025-05-25 07:56:50.192 : No devices found, disabling all disallowed control buttons.
-2025-05-25 07:56:56.807 : Press the Version or Reading button to see results from the selected device.
-2025-05-25 07:56:56.823 : Finished USB search. Found 1 matches
-2025-05-25 07:56:56.826 : Looking for Ethernet connections on this machine.
-2025-05-25 07:56:56.851 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
-2025-05-25 07:56:58.851 : Finished looking for Ethernet devices.
-2025-05-25 07:56:58.855 : Getting InstrumentIDs.
-2025-05-25 07:56:58.862 : Populated FoundDevices window.
-2025-05-25 07:56:58.888 : Press the Version or Reading button to see results from the selected device.
-2025-05-25 07:56:58.888 : ItemSelected: row 0.
-2025-05-25 07:56:58.893 : USB SN: 003BNCX Device: /dev/cu.usbserial-B003BNCX has been selected.
-2025-05-25 07:56:58.893 : Only one device found, selecting it.
-2025-05-25 07:56:58.894 : Press the Version or Reading button to see results from the selected device.
-2025-05-25 07:56:58.943 : ItemSelected: row 0.
-2025-05-25 07:56:58.966 : USB SN: 003BNCX Device: /dev/cu.usbserial-B003BNCX has been selected.
-2025-05-25 07:56:58.968 : GetVersion called.
-2025-05-25 07:56:59.011 : Sent: ix   To: /dev/cu.usbserial-B003BNCX   Received: i,00000004,00000006,00000082,00007109
+2025-11-16 20:37:44.584 : UDM Started. Local time: 2025-11-16 21:37:44
+2025-11-16 20:37:45.168 : Looking for .goto files here: /Applications/udm.app/Contents/Resources//*.goto
+2025-11-16 20:37:45.168 : 0: default.goto
+2025-11-16 20:37:45.417 : UDM Version: 1.0.0.358
+2025-11-16 20:37:45.417 : Operating system: MacOSX (Darwin)
+2025-11-16 20:37:45.417 : Started at: 2025-11-16 21:37:45
+2025-11-16 20:37:45.417 : Started as:  /Applications/udm.app/Contents/MacOS/udm
+2025-11-16 20:37:45.417 : ConfigFilePath: /Users/pietdraiby//Documents/udm/udm.cfg
+2025-11-16 20:37:45.419 : Press the Version or Reading button to see results from the selected device.
+2025-11-16 20:37:45.420 : Finished USB search. Found 0 matches
+2025-11-16 20:37:45.420 : Looking for Ethernet connections on this machine.
+2025-11-16 20:37:45.452 : This machine uses IP: 0.0.0.0 , will use a broadcast to: 255.255.255.255
+2025-11-16 20:37:47.463 : Finished looking for Ethernet devices.
+2025-11-16 20:37:47.500 : Getting InstrumentIDs.
+2025-11-16 20:37:47.500 : No devices were found
+2025-11-16 20:37:47.500 : Populated FoundDevices window.
+2025-11-16 20:37:47.500 : No devices found, disabling all disallowed control buttons.

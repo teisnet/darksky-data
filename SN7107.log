@@ -1597,3 +1597,462 @@
 2025-05-24 12:17:12.688 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
 2025-05-24 12:17:12.728 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
 2025-05-24 12:17:12.744 : SN 7107 : 19513 Packets 16 bytes long.
+2025-06-23 11:31:26.837 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-23 11:31:26.869 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-23 11:31:26.901 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-23 11:31:26.933 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-23 11:31:26.937 : SN 7107 : ContCheck(Yx)
+2025-06-23 11:31:26.965 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-23 11:31:27.029 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-23 11:31:27.109 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-23 11:31:27.141 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-23 11:31:27.173 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-23 11:31:27.205 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:27.236 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:27.284 : SN 7107 : Sent: L40000020862x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-07-17 5 10:20:49,08.52,-873.4C,255,0
+2025-06-23 11:31:27.333 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-25 2 19:03:24
+2025-06-23 11:31:27.337 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-23 11:31:27.365 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-23 11:31:27.397 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-23 11:31:27.412 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-23 11:31:27.445 : SN 7107 : CheckLockVisibility()
+2025-06-23 11:31:27.477 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 11:31:27.481 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 11:31:27.491 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-23 11:31:27.494 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 11:31:27.525 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 09.13m,0000021259Hz,0000000000c,0000000.000s, 022.2C
+2025-06-23 11:31:34.494 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-23 11:31:34.590 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-23 11:31:34.622 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-23 11:31:34.654 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:34.686 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:34.734 : SN 7107 : Sent: L40000020862x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-07-17 5 10:20:49,08.52,-873.4C,255,0
+2025-06-23 11:31:34.766 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-25 2 19:03:31
+2025-06-23 11:31:34.770 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-23 11:31:34.798 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-23 11:31:34.830 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:34.862 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:34.910 : SN 7107 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCH   Received: L4,24-11-08 6 14:12:16,11.28, 018.6C,220,0
+2025-06-23 11:31:36.270 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000020863
+2025-06-23 11:31:39.225 : SN 7107 : DL binary retrieve initiated.
+2025-06-23 11:31:39.263 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-23 11:31:39.295 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-23 11:31:39.327 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 09.12m,0000021450Hz,0000000000c,0000000.000s, 022.2C
+2025-06-23 11:31:39.359 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-23 11:31:39.391 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-23 11:31:39.423 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-25 2 19:03:36
+2025-06-23 11:31:39.455 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-23 11:31:39.497 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-23 11:31:39.513 : SN 7107 : 20863 Packets 16 bytes long.
+2025-06-24 16:43:31.797 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 16:43:31.829 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 16:43:31.862 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 16:43:31.893 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 16:43:31.903 : SN 7107 : ContCheck(Yx)
+2025-06-24 16:43:31.926 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 16:43:31.989 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 16:43:32.086 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 16:43:32.118 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 16:43:32.149 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 16:43:32.181 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:32.213 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:32.261 : SN 7107 : Sent: L40000021204x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:10:05,14.68, 019.6C,221,1
+2025-06-24 16:43:32.309 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:15:28
+2025-06-24 16:43:32.313 : SN 7107 : Real Time Clock difference: 5470315
+2025-06-24 16:43:32.341 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:32.373 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:32.406 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:32.439 : SN 7107 : CheckLockVisibility()
+2025-06-24 16:43:32.469 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:32.473 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:32.482 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 16:43:32.484 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:32.517 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.51m,0000005974Hz,0000000000c,0000000.000s, 020.3C
+2025-06-24 16:43:47.339 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 16:43:47.371 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 16:43:47.403 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 16:43:47.419 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 16:43:47.422 : SN 7107 : ContCheck(Yx)
+2025-06-24 16:43:47.435 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 16:43:47.483 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 16:43:47.568 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 16:43:47.600 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 16:43:47.632 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 16:43:47.664 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:47.696 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:47.744 : SN 7107 : Sent: L40000021204x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:10:05,14.68, 019.6C,221,1
+2025-06-24 16:43:47.776 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:15:43
+2025-06-24 16:43:47.781 : SN 7107 : Real Time Clock difference: 5470315
+2025-06-24 16:43:47.808 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:47.840 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:47.872 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:47.918 : SN 7107 : CheckLockVisibility()
+2025-06-24 16:43:47.952 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:47.955 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:47.962 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 16:43:47.962 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:48.000 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.52m,0000005907Hz,0000000000c,0000000.000s, 020.6C
+2025-06-24 16:43:53.006 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 16:43:53.103 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 16:43:53.134 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 16:43:53.166 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:53.198 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:53.246 : SN 7107 : Sent: L40000021204x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:10:05,14.68, 019.6C,221,1
+2025-06-24 16:43:53.278 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:15:49
+2025-06-24 16:43:53.284 : SN 7107 : Real Time Clock difference: 5470315
+2025-06-24 16:43:53.310 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 16:43:53.342 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:53.374 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:53.422 : SN 7107 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCH   Received: L4,24-11-08 6 14:12:16,11.28, 018.6C,220,0
+2025-06-24 16:43:56.367 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021205
+2025-06-24 16:43:59.701 : SN 7107 : DL binary retrieve initiated.
+2025-06-24 16:43:59.744 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 16:43:59.776 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 16:43:59.808 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.52m,0000005867Hz,0000000000c,0000000.000s, 020.6C
+2025-06-24 16:43:59.840 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 16:43:59.872 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 16:43:59.904 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:15:55
+2025-06-24 16:43:59.936 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 16:43:59.978 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 16:43:59.994 : SN 7107 : 21205 Packets 16 bytes long.
+2025-06-24 17:04:13.518 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:04:13.550 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:04:13.582 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:04:13.598 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:04:13.599 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:04:13.630 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:04:13.694 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:04:13.774 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:04:13.806 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:04:13.838 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:04:13.870 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:04:13.902 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:04:13.949 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:04:13.982 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:36:10
+2025-06-24 17:04:13.986 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:04:14.014 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:04:14.046 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:04:14.061 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:04:14.091 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:04:14.126 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:04:14.129 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:04:14.136 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:04:14.139 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:04:14.174 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 09.83m,0000011104Hz,0000000000c,0000000.000s, 020.6C
+2025-06-24 17:05:50.843 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:05:53.612 : SN 7107 : GetVersion called.
+2025-06-24 17:05:53.691 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:05:53.723 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:05:53.755 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:05:53.787 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:05:53.819 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:05:53.823 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:05:53.851 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:05:53.867 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:05:53.930 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:05:53.962 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:05:53.994 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:05:54.026 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:05:54.058 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:05:54.106 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:05:54.154 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:37:51
+2025-06-24 17:05:54.159 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:05:54.186 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:05:54.191 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:05:54.218 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:05:54.230 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:05:54.236 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:05:54.255 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:05:54.284 : SN 7107 : GetConfReading called.
+2025-06-24 17:05:54.346 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 11.74m,0000001916Hz,0000000000c,0000000.000s, 020.9C
+2025-06-24 17:05:54.378 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:05:54.426 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:05:54.458 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:05:54.477 : SN 7107 : GetConfCal called.
+2025-06-24 17:05:54.506 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:06:22.248 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:06:22.328 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:06:22.360 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:06:22.392 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:22.424 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:22.472 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:06:22.504 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:38:19
+2025-06-24 17:06:22.510 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:06:22.536 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:06:22.568 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:22.600 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:22.648 : SN 7107 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCH   Received: L4,24-11-08 6 14:12:16,11.28, 018.6C,220,0
+2025-06-24 17:06:34.690 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:06:34.818 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:06:34.850 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:06:34.882 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:34.914 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:06:34.961 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:06:35.010 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:38:31
+2025-06-24 17:06:35.016 : SN 7107 : Real Time Clock difference: 5470315
+2025-06-24 17:06:35.042 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:06:36.882 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:14:35.116 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:14:35.148 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:14:35.212 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:14:35.244 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:14:35.253 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:14:35.276 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:14:35.323 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:14:35.403 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:14:35.435 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:14:35.468 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:14:35.500 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:14:35.548 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:14:35.612 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:14:35.660 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:46:32
+2025-06-24 17:14:35.670 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:14:35.691 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:14:35.724 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:14:35.756 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:14:35.802 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:14:35.852 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:14:35.866 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:14:35.875 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:14:35.883 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:14:35.916 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 09.92m,0000010256Hz,0000000000c,0000000.000s,-050.0C
+2025-06-24 17:14:40.622 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:15:01.710 : SN 7107 : GetVersion called.
+2025-06-24 17:15:01.782 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:15:01.814 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:15:01.846 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:15:01.878 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:15:01.894 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:15:01.897 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:15:01.926 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:15:01.957 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:15:02.022 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:15:02.053 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:15:02.086 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:15:02.118 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:15:02.149 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:15:02.198 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:15:02.230 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:46:59
+2025-06-24 17:15:02.235 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:15:02.261 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:15:02.265 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:15:02.293 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:15:02.296 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:15:02.300 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:15:02.300 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:15:02.319 : SN 7107 : GetConfReading called.
+2025-06-24 17:15:02.373 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 09.92m,0000010274Hz,0000000000c,0000000.000s, 020.9C
+2025-06-24 17:15:02.405 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:15:02.438 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:15:02.469 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:15:02.473 : SN 7107 : GetConfCal called.
+2025-06-24 17:15:02.501 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:15:51.160 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 09.99m,0000009629Hz,0000000000c,0000000.000s, 021.2C
+2025-06-24 17:15:51.240 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:15:51.244 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:15:51.251 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:15:51.272 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:15:55.049 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:17:40.026 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:17:43.819 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.20m,0000007932Hz,0000000000c,0000000.000s, 021.5C
+2025-06-24 17:17:43.868 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:17:43.871 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:17:43.879 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:17:43.899 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:17:45.740 : SN 7107 : GetVersion called.
+2025-06-24 17:17:45.804 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:17:45.835 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:17:45.851 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:17:45.867 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:17:45.883 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:17:45.887 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:17:45.915 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:17:45.948 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:17:46.018 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:17:46.049 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:17:46.081 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:17:46.114 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:17:46.145 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:17:46.194 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:17:46.241 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:49:43
+2025-06-24 17:17:46.254 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:17:46.273 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:17:46.286 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:17:46.321 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:17:46.330 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:17:46.339 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:17:46.364 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:17:46.367 : SN 7107 : GetConfReading called.
+2025-06-24 17:17:46.401 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 10.20m,0000007940Hz,0000000000c,0000000.000s, 021.9C
+2025-06-24 17:17:46.433 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:17:46.465 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:17:46.497 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:17:46.511 : SN 7107 : GetConfCal called.
+2025-06-24 17:17:46.545 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:18:04.417 : SN 7107 : GetVersion called.
+2025-06-24 17:18:04.471 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:18:04.504 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:18:04.536 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:18:04.568 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:18:04.600 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:18:04.603 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:18:04.632 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:18:04.664 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:18:04.728 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:18:04.760 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:18:04.792 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:18:04.824 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:18:04.856 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:18:04.904 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:18:04.936 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:50:01
+2025-06-24 17:18:04.940 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:18:04.967 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:18:04.970 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:18:05.000 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:05.004 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:05.011 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:18:05.019 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:05.019 : SN 7107 : GetConfReading called.
+2025-06-24 17:18:05.048 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 10.17m,0000008113Hz,0000000000c,0000000.000s, 021.9C
+2025-06-24 17:18:05.079 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:18:05.112 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:18:05.144 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:18:05.148 : SN 7107 : GetConfCal called.
+2025-06-24 17:18:05.176 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:18:05.185 : SN 7107 : CheckLockSwitch called.
+2025-06-24 17:18:05.223 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.17m,0000008113Hz,0000000000c,0000000.000s, 021.9C
+2025-06-24 17:18:05.256 : SN 7107 : Sent: zcalDx   To: /dev/cu.usbserial-B003BNCH   Received: zxdU
+2025-06-24 17:18:07.416 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:18:14.554 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:18:17.499 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.18m,0000008058Hz,0000000000c,0000000.000s, 021.9C
+2025-06-24 17:18:17.547 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:17.551 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:17.558 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:18:17.579 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:18:22.800 : SN 7107 : GetVersion called.
+2025-06-24 17:18:22.861 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:18:22.893 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:18:22.925 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:18:22.957 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:18:22.973 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:18:22.977 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:18:23.005 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:18:23.037 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:18:23.101 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:18:23.133 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:18:23.165 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:18:23.197 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:18:23.229 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:18:23.277 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:18:23.309 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:50:20
+2025-06-24 17:18:23.312 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:18:23.325 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:18:23.327 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:18:23.357 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:23.361 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:23.367 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:18:23.367 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:18:23.368 : SN 7107 : GetConfReading called.
+2025-06-24 17:18:23.405 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 10.17m,0000008191Hz,0000000000c,0000000.000s, 021.9C
+2025-06-24 17:18:23.453 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:18:23.485 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:18:23.517 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:18:23.526 : SN 7107 : GetConfCal called.
+2025-06-24 17:18:23.565 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:19:20.090 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:19:23.034 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:19:41.172 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-06-24 17:19:46.261 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 10.20m,0000007881Hz,0000000000c,0000000.000s, 022.2C
+2025-06-24 17:19:46.325 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:19:46.329 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:19:46.336 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:19:46.356 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:19:50.254 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:19:50.334 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:19:50.366 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:19:50.398 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:50.430 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:50.478 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:19:50.526 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:51:47
+2025-06-24 17:19:50.538 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:19:50.558 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:19:50.590 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:50.622 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:50.670 : SN 7107 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCH   Received: L4,24-11-08 6 14:12:16,11.28, 018.6C,220,0
+2025-06-24 17:19:53.631 : SN 7107 : GetVersion called.
+2025-06-24 17:19:53.711 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-06-24 17:19:53.743 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:19:53.775 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:19:53.807 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:19:53.839 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-06-24 17:19:53.843 : SN 7107 : ContCheck(Yx)
+2025-06-24 17:19:53.871 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-06-24 17:19:53.903 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-06-24 17:19:53.967 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-06-24 17:19:53.999 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-06-24 17:19:54.031 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-06-24 17:19:54.063 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:54.095 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000021206
+2025-06-24 17:19:54.159 : SN 7107 : Sent: L40000021205x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-08-27 4 00:19:25,07.94, 020.9C,221,0
+2025-06-24 17:19:54.223 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-08-27 4 00:51:51
+2025-06-24 17:19:54.232 : SN 7107 : Real Time Clock difference: 5470316
+2025-06-24 17:19:54.255 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-06-24 17:19:54.277 : SN 7107 : CheckLockVisibility()
+2025-06-24 17:19:54.303 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:19:54.316 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:19:54.324 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-06-24 17:19:54.352 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-24 17:19:54.357 : SN 7107 : GetConfReading called.
+2025-06-24 17:19:54.399 : SN 7107 : Sent: ux   To: /dev/cu.usbserial-B003BNCH   Received: u, 10.20m,0000007950Hz,0000000000c,0000000.000s, 022.2C
+2025-06-24 17:19:54.447 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-06-24 17:19:54.479 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-06-24 17:19:54.511 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-06-24 17:19:54.526 : SN 7107 : GetConfCal called.
+2025-06-24 17:19:54.559 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-08-10 13:34:56.782 : SN 7107 : Sent: m0x   To: /dev/cu.usbserial-B003BNCH   Received: m0,255
+2025-08-10 13:34:56.813 : SN 7107 : Sent: m1x   To: /dev/cu.usbserial-B003BNCH   Received: m1,255
+2025-08-10 13:34:56.845 : SN 7107 : Sent: m2x   To: /dev/cu.usbserial-B003BNCH   Received: m2,255
+2025-08-10 13:34:56.877 : SN 7107 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCH   Received: Lv,2
+2025-08-10 13:34:56.880 : SN 7107 : ContCheck(Yx)
+2025-08-10 13:34:56.909 : SN 7107 : Sent: Yx   To: /dev/cu.usbserial-B003BNCH   Received: Yrcpu
+2025-08-10 13:34:56.973 : SN 7107 : Sent: A5x   To: /dev/cu.usbserial-B003BNCH   Received: A5,0,d
+2025-08-10 13:34:57.051 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-08-10 13:34:57.083 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-08-10 13:34:57.115 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-08-10 13:34:57.147 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:34:57.179 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:34:57.227 : SN 7107 : Sent: L40000032131x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-10-12 1 21:05:50,13.18, 021.9C,228,0
+2025-08-10 13:34:57.275 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-10-12 1 21:06:55
+2025-08-10 13:34:57.279 : SN 7107 : Real Time Clock difference: 5470317
+2025-08-10 13:34:57.307 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-08-10 13:34:57.339 : SN 7107 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-08-10 13:34:57.371 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-08-10 13:34:57.403 : SN 7107 : CheckLockVisibility()
+2025-08-10 13:34:57.435 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:34:57.439 : SN 7107 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:34:57.448 : SN 7107 : GetVersion result: i,00000004,00000006,00000082,00007107
+2025-08-10 13:34:57.448 : SN 7107 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:34:57.483 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 13.65m,0000000330Hz,0000000000c,0000000.000s, 022.2C
+2025-08-10 13:35:05.588 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-08-10 13:35:05.684 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-08-10 13:35:05.716 : SN 7107 : Sent: LZx   To: /dev/cu.usbserial-B003BNCH   Received: LZ,0001048576
+2025-08-10 13:35:05.748 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:35:05.780 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:35:05.828 : SN 7107 : Sent: L40000032131x   To: /dev/cu.usbserial-B003BNCH   Received: L4,25-10-12 1 21:05:50,13.18, 021.9C,228,0
+2025-08-10 13:35:05.860 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-10-12 1 21:07:04
+2025-08-10 13:35:05.866 : SN 7107 : Real Time Clock difference: 5470318
+2025-08-10 13:35:05.892 : SN 7107 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCH   Received: Ld,1
+2025-08-10 13:35:05.924 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:35:05.956 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:35:06.004 : SN 7107 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCH   Received: L4,24-11-08 6 14:12:16,11.28, 018.6C,220,0
+2025-08-10 13:35:08.341 : SN 7107 : Sent: L1x   To: /dev/cu.usbserial-B003BNCH   Received: L1,0000032132
+2025-08-10 13:35:16.064 : SN 7107 : DL binary retrieve initiated.
+2025-08-10 13:35:16.104 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-08-10 13:35:16.136 : SN 7107 : Sent: ix   To: /dev/cu.usbserial-B003BNCH   Received: i,00000004,00000006,00000082,00007107
+2025-08-10 13:35:16.168 : SN 7107 : Sent: rx   To: /dev/cu.usbserial-B003BNCH   Received: r, 13.79m,0000000290Hz,0000000000c,0000000.000s, 022.2C
+2025-08-10 13:35:16.200 : SN 7107 : Sent: cx   To: /dev/cu.usbserial-B003BNCH   Received: c,00000019.94m,0000196.912s, 018.0C,00000008.71m, 018.0C
+2025-08-10 13:35:16.232 : SN 7107 : Sent: Ix   To: /dev/cu.usbserial-B003BNCH   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-08-10 13:35:16.264 : SN 7107 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCH   Received: Lc,25-10-12 1 21:07:14
+2025-08-10 13:35:16.296 : SN 7107 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCH   Received: LM,2
+2025-08-10 13:35:16.338 : SN 7107 : Sent: LIx   To: /dev/cu.usbserial-B003BNCH   Received: LI,0000000005s,0000000005m,0000000005s,0000000005m,00000000.00m,
+2025-08-10 13:35:16.354 : SN 7107 : 32132 Packets 16 bytes long.

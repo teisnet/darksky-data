@@ -929,3 +929,106 @@
 2025-05-25 07:09:04.142 : SN 7122 : Failed: actual count = 0 , desired count = 8 
 2025-05-25 07:09:07.158 : SN 7122 : Failed: actual count = 0 , desired count = 8 
 2025-05-25 07:20:25.924 : SN 7122 : Retrieved range ASCII: 47600 to -1
+2025-06-22 14:14:54.438 : SN 7122 : Sent: m0x   To: /dev/cu.usbserial-B003BNCD   Received: m0,255
+2025-06-22 14:14:54.469 : SN 7122 : Sent: m1x   To: /dev/cu.usbserial-B003BNCD   Received: m1,255
+2025-06-22 14:14:54.501 : SN 7122 : Sent: m2x   To: /dev/cu.usbserial-B003BNCD   Received: m2,255
+2025-06-22 14:14:54.517 : SN 7122 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCD   Received: Lv,2
+2025-06-22 14:14:54.521 : SN 7122 : ContCheck(Yx)
+2025-06-22 14:14:54.549 : SN 7122 : Sent: Yx   To: /dev/cu.usbserial-B003BNCD   Received: Yrcpu
+2025-06-22 14:14:54.613 : SN 7122 : Sent: A5x   To: /dev/cu.usbserial-B003BNCD   Received: A5,0,d
+2025-06-22 14:14:54.693 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-22 14:14:54.726 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:14:54.757 : SN 7122 : Sent: LZx   To: /dev/cu.usbserial-B003BNCD   Received: LZ,0001048576
+2025-06-22 14:14:54.789 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:14:54.821 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:14:54.869 : SN 7122 : Sent: L40000084403x   To: /dev/cu.usbserial-B003BNCD   Received: L4,25-06-22 1 14:11:05,00.00, 028.0C,228,1
+2025-06-22 14:14:54.917 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:14:47
+2025-06-22 14:14:54.922 : SN 7122 : Real Time Clock difference: 7
+2025-06-22 14:14:54.949 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:14:54.981 : SN 7122 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:14:54.997 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:14:55.032 : SN 7122 : CheckLockVisibility()
+2025-06-22 14:14:55.077 : SN 7122 : Sent: Ix   To: /dev/cu.usbserial-B003BNCD   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:14:55.082 : SN 7122 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:14:55.092 : SN 7122 : GetVersion result: i,00000004,00000006,00000082,00007122
+2025-06-22 14:14:55.094 : SN 7122 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:14:55.125 : SN 7122 : Sent: rx   To: /dev/cu.usbserial-B003BNCD   Received: r, 08.40m,0000041169Hz,0000000000c,0000000.000s, 027.7C
+2025-06-22 14:15:03.914 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-22 14:15:04.027 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:15:04.059 : SN 7122 : Sent: LZx   To: /dev/cu.usbserial-B003BNCD   Received: LZ,0001048576
+2025-06-22 14:15:04.090 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:15:04.122 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:15:04.170 : SN 7122 : Sent: L40000084403x   To: /dev/cu.usbserial-B003BNCD   Received: L4,25-06-22 1 14:11:05,00.00, 028.0C,228,1
+2025-06-22 14:15:04.202 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:14:56
+2025-06-22 14:15:04.208 : SN 7122 : Real Time Clock difference: 8
+2025-06-22 14:15:04.234 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:15:04.267 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:15:04.298 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:15:04.346 : SN 7122 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCD   Received: L4,24-09-02 2 11:40:37,09.65, 024.8C,228,0
+2025-06-22 14:15:05.610 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084404
+2025-06-22 14:15:08.860 : SN 7122 : DL binary retrieve initiated.
+2025-06-22 14:15:08.889 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:15:08.921 : SN 7122 : Sent: ix   To: /dev/cu.usbserial-B003BNCD   Received: i,00000004,00000006,00000082,00007122
+2025-06-22 14:15:08.954 : SN 7122 : Sent: rx   To: /dev/cu.usbserial-B003BNCD   Received: r, 08.40m,0000041021Hz,0000000000c,0000000.000s, 027.7C
+2025-06-22 14:15:08.986 : SN 7122 : Sent: cx   To: /dev/cu.usbserial-B003BNCD   Received: c,00000019.93m,0000300.000s, 018.6C,00000008.71m, 019.0C
+2025-06-22 14:15:09.018 : SN 7122 : Sent: Ix   To: /dev/cu.usbserial-B003BNCD   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:15:09.050 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:15:01
+2025-06-22 14:15:09.081 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:15:09.121 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000005m,00000000.00m,
+2025-06-22 14:15:09.137 : SN 7122 : 84404 Packets 16 bytes long.
+2025-06-22 14:22:35.137 : SN 7122 : Error receiving data: Timeout during operation at record #: 44648
+2025-06-22 14:22:58.343 : SN 7122 : DL binary retrieve initiated.
+2025-06-22 14:23:01.379 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: Error: Timeout during operation
+2025-06-22 14:23:13.706 : SN 7122 : Sent: m0x   To: /dev/cu.usbserial-B003BNCD   Received: m0,255
+2025-06-22 14:23:13.739 : SN 7122 : Sent: m1x   To: /dev/cu.usbserial-B003BNCD   Received: m1,255
+2025-06-22 14:23:13.771 : SN 7122 : Sent: m2x   To: /dev/cu.usbserial-B003BNCD   Received: m2,255
+2025-06-22 14:23:13.803 : SN 7122 : Sent: Lvx   To: /dev/cu.usbserial-B003BNCD   Received: Lv,2
+2025-06-22 14:23:13.807 : SN 7122 : ContCheck(Yx)
+2025-06-22 14:23:13.835 : SN 7122 : Sent: Yx   To: /dev/cu.usbserial-B003BNCD   Received: Yrcpu
+2025-06-22 14:23:13.899 : SN 7122 : Sent: A5x   To: /dev/cu.usbserial-B003BNCD   Received: A5,0,d
+2025-06-22 14:23:13.977 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000002m,00000000.00m,
+2025-06-22 14:23:14.008 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:23:14.040 : SN 7122 : Sent: LZx   To: /dev/cu.usbserial-B003BNCD   Received: LZ,0001048576
+2025-06-22 14:23:14.072 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:14.105 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:14.153 : SN 7122 : Sent: L40000084404x   To: /dev/cu.usbserial-B003BNCD   Received: L4,25-06-22 1 14:20:59,07.89, 027.7C,236,0
+2025-06-22 14:23:14.184 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:23:07
+2025-06-22 14:23:14.187 : SN 7122 : Real Time Clock difference: 7
+2025-06-22 14:23:14.200 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:23:14.233 : SN 7122 : Sent: LD1x   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:23:14.265 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:23:14.296 : SN 7122 : CheckLockVisibility()
+2025-06-22 14:23:14.329 : SN 7122 : Sent: Ix   To: /dev/cu.usbserial-B003BNCD   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:23:14.332 : SN 7122 : ParseReportInterval response: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:23:14.341 : SN 7122 : GetVersion result: i,00000004,00000006,00000082,00007122
+2025-06-22 14:23:14.341 : SN 7122 : Reading Interval Settings: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:23:14.377 : SN 7122 : Sent: rx   To: /dev/cu.usbserial-B003BNCD   Received: r, 08.21m,0000048882Hz,0000000000c,0000000.000s, 027.3C
+2025-06-22 14:23:22.648 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000002m,00000000.00m,
+2025-06-22 14:23:22.728 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:23:22.761 : SN 7122 : Sent: LZx   To: /dev/cu.usbserial-B003BNCD   Received: LZ,0001048576
+2025-06-22 14:23:22.792 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:22.824 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:22.872 : SN 7122 : Sent: L40000084404x   To: /dev/cu.usbserial-B003BNCD   Received: L4,25-06-22 1 14:20:59,07.89, 027.7C,236,0
+2025-06-22 14:23:22.904 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:23:15
+2025-06-22 14:23:22.910 : SN 7122 : Real Time Clock difference: 7
+2025-06-22 14:23:22.936 : SN 7122 : Sent: Ldx   To: /dev/cu.usbserial-B003BNCD   Received: Ld,1
+2025-06-22 14:23:22.968 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:23.000 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:23.048 : SN 7122 : Sent: L40000000000x   To: /dev/cu.usbserial-B003BNCD   Received: L4,24-09-02 2 11:40:37,09.65, 024.8C,228,0
+2025-06-22 14:23:24.984 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: L1,0000084405
+2025-06-22 14:23:39.591 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:23:39.638 : SN 7122 : Sent: ix   To: /dev/cu.usbserial-B003BNCD   Received: i,00000004,00000006,00000082,00007122
+2025-06-22 14:23:39.671 : SN 7122 : Sent: rx   To: /dev/cu.usbserial-B003BNCD   Received: r, 08.23m,0000048112Hz,0000000000c,0000000.000s, 027.3C
+2025-06-22 14:23:39.702 : SN 7122 : Sent: cx   To: /dev/cu.usbserial-B003BNCD   Received: c,00000019.93m,0000300.000s, 018.6C,00000008.71m, 019.0C
+2025-06-22 14:23:39.735 : SN 7122 : Sent: Ix   To: /dev/cu.usbserial-B003BNCD   Received: 0000000000s,0000000000s,00000000.00m,00000000.00m
+2025-06-22 14:23:39.767 : SN 7122 : Sent: Lcx   To: /dev/cu.usbserial-B003BNCD   Received: Lc,25-06-22 1 14:23:32
+2025-06-22 14:23:39.799 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: LM,2
+2025-06-22 14:23:39.841 : SN 7122 : Sent: LIx   To: /dev/cu.usbserial-B003BNCD   Received: LI,0000000000s,0000000005m,0000000000s,0000000002m,00000000.00m,
+2025-06-22 14:23:39.845 : SN 7122 : DLRetrieveRange: End record was -1, set to 84405
+2025-06-22 14:41:41.007 : SN 7122 : Failed: actual count = 0 , desired count = 8 
+2025-06-22 14:41:44.028 : SN 7122 : Failed: actual count = 0 , desired count = 8 
+2025-06-22 14:57:39.243 : SN 7122 : DL Retrieve cancelled.
+2025-06-22 14:57:39.246 : SN 7122 : Retrieved range ASCII: 1 to -1
+2025-06-22 15:04:16.885 : SN 7122 : Sent: L1x   To: /dev/cu.usbserial-B003BNCD   Received: Error: Instance not yet connected
+2025-06-22 15:04:19.925 : SN 7122 : DL binary retrieve initiated.
+2025-06-22 15:04:19.946 : SN 7122 : Sent: Lmx   To: /dev/cu.usbserial-B003BNCD   Received: Error: Instance not yet connected
